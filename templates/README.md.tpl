@@ -1,6 +1,7 @@
 Hi!
 
 My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Developer at https://team.blue in Leiden, the Netherlands.
+
 ---
 
 #### My GH statistics
