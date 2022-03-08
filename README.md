@@ -16,7 +16,6 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [transip/transip-api-symfony](https://github.com/transip/transip-api-symfony) - This bundle provides an instance of TransipAPI to Symfony&#39;s Container. (1 month ago)
 - [maximebf/php-debugbar](https://github.com/maximebf/php-debugbar) - Debug bar for PHP (2 months ago)
 - [xvilo/harvest-forecast](https://github.com/xvilo/harvest-forecast) - Harvest Forecast API client (3 months ago)
-- [xvilo/grumphp-prefixed](https://github.com/xvilo/grumphp-prefixed) - Prefixed version of GrumPHP (3 months ago)
 - [arnedesmedt/php-util](https://github.com/arnedesmedt/php-util) -  (4 months ago)
 - [arnedesmedt/json-immutable-objects](https://github.com/arnedesmedt/json-immutable-objects) -  (4 months ago)
 - [arnedesmedt/value-objects](https://github.com/arnedesmedt/value-objects) -  (4 months ago)
