@@ -26,7 +26,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([v6.14.1](https://github.com/transip/transip-api-php/releases/tag/v6.14.1), 4 days ago) - PHP library for TransIP Rest API
+- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([v6.15.0](https://github.com/transip/transip-api-php/releases/tag/v6.15.0), today) - PHP library for TransIP Rest API
 - [maximebf/php-debugbar](https://github.com/maximebf/php-debugbar) ([v1.18.0](https://github.com/maximebf/php-debugbar/releases/tag/v1.18.0), 1 month ago) - Debug bar for PHP
 - [transip/transip-api-symfony](https://github.com/transip/transip-api-symfony) ([v1.0.0](https://github.com/transip/transip-api-symfony/releases/tag/v1.0.0), 1 month ago) - This bundle provides an instance of TransipAPI to Symfony&#39;s Container.
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) ([v5.4.0](https://github.com/OpenAPITools/openapi-generator/releases/tag/v5.4.0), 1 month ago) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
