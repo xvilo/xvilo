@@ -21,7 +21,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [arnedesmedt/php-util](https://github.com/arnedesmedt/php-util) -  (7 months ago)
 - [arnedesmedt/json-immutable-objects](https://github.com/arnedesmedt/json-immutable-objects) -  (7 months ago)
 - [arnedesmedt/value-objects](https://github.com/arnedesmedt/value-objects) -  (7 months ago)
-- [transip/transip-api-php](https://github.com/transip/transip-api-php) - PHP library for TransIP Rest API (7 months ago)
+- [transip/transip-api-php](https://github.com/transip/transip-api-php) - PHP library for TransIP Rest API (8 months ago)
 
 ---
 
