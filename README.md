@@ -12,7 +12,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### What I've been working on
 
-- [transip/homebrew-transip](https://github.com/transip/homebrew-transip) - TransIP Homebrew Tap (today)
+- [transip/homebrew-transip](https://github.com/transip/homebrew-transip) - TransIP Homebrew Tap (1 day ago)
 - [xvilo/homebrew-test](https://github.com/xvilo/homebrew-test) -  (2 months ago)
 - [repman-io/repman](https://github.com/repman-io/repman) - Repman - PHP Repository Manager: packagist proxy and host for private packages  (3 months ago)
 - [transip/transip-api-symfony](https://github.com/transip/transip-api-symfony) - This bundle provides an instance of TransipAPI to Symfony&#39;s Container. (4 months ago)
@@ -27,7 +27,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([v6.24.0](https://github.com/transip/transip-api-php/releases/tag/v6.24.0), today) - PHP library for TransIP Rest API
+- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([v6.24.0](https://github.com/transip/transip-api-php/releases/tag/v6.24.0), 1 day ago) - PHP library for TransIP Rest API
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) ([v6.0.0](https://github.com/OpenAPITools/openapi-generator/releases/tag/v6.0.0), 1 month ago) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [maximebf/php-debugbar](https://github.com/maximebf/php-debugbar) ([v1.18.0](https://github.com/maximebf/php-debugbar/releases/tag/v1.18.0), 4 months ago) - Debug bar for PHP
 - [transip/transip-api-symfony](https://github.com/transip/transip-api-symfony) ([v1.0.0](https://github.com/transip/transip-api-symfony/releases/tag/v1.0.0), 4 months ago) - This bundle provides an instance of TransipAPI to Symfony&#39;s Container.
