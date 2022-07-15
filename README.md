@@ -12,7 +12,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### What I've been working on
 
-- [transip/transip-api-php](https://github.com/transip/transip-api-php) - PHP library for TransIP Rest API (1 week ago)
+- [transip/transip-api-php](https://github.com/transip/transip-api-php) - PHP library for TransIP Rest API (2 weeks ago)
 - [sserbin/twig-linter](https://github.com/sserbin/twig-linter) -  (2 weeks ago)
 - [transip/homebrew-transip](https://github.com/transip/homebrew-transip) - TransIP Homebrew Tap (2 weeks ago)
 - [xvilo/homebrew-test](https://github.com/xvilo/homebrew-test) -  (3 months ago)
@@ -28,7 +28,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 #### My latest contributions
 
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) ([v6.0.1](https://github.com/OpenAPITools/openapi-generator/releases/tag/v6.0.1), 1 week ago) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
-- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([v6.25.0](https://github.com/transip/transip-api-php/releases/tag/v6.25.0), 1 week ago) - PHP library for TransIP Rest API
+- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([v6.25.0](https://github.com/transip/transip-api-php/releases/tag/v6.25.0), 2 weeks ago) - PHP library for TransIP Rest API
 - [sserbin/twig-linter](https://github.com/sserbin/twig-linter) ([3.1.0](https://github.com/sserbin/twig-linter/releases/tag/3.1.0), 2 weeks ago) - 
 - [maximebf/php-debugbar](https://github.com/maximebf/php-debugbar) ([v1.18.0](https://github.com/maximebf/php-debugbar/releases/tag/v1.18.0), 5 months ago) - Debug bar for PHP
 - [transip/transip-api-symfony](https://github.com/transip/transip-api-symfony) ([v1.0.0](https://github.com/transip/transip-api-symfony/releases/tag/v1.0.0), 5 months ago) - This bundle provides an instance of TransipAPI to Symfony&#39;s Container.
