@@ -18,7 +18,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [xvilo/homebrew-test](https://github.com/xvilo/homebrew-test) -  (3 months ago)
 - [repman-io/repman](https://github.com/repman-io/repman) - Repman - PHP Repository Manager: packagist proxy and host for private packages  (4 months ago)
 - [transip/transip-api-symfony](https://github.com/transip/transip-api-symfony) - This bundle provides an instance of TransipAPI to Symfony&#39;s Container. (6 months ago)
-- [xvilo/customer-invoice-manager](https://github.com/xvilo/customer-invoice-manager) - small invoice manager (6 months ago)
+- [xvilo/customer-invoice-manager](https://github.com/xvilo/customer-invoice-manager) - small invoice manager (7 months ago)
 - [maximebf/php-debugbar](https://github.com/maximebf/php-debugbar) - Debug bar for PHP (7 months ago)
 - [xvilo/harvest-forecast](https://github.com/xvilo/harvest-forecast) - Harvest Forecast API client (8 months ago)
 - [arnedesmedt/php-util](https://github.com/arnedesmedt/php-util) -  (9 months ago)
