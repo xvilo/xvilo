@@ -21,7 +21,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [xvilo/customer-invoice-manager](https://github.com/xvilo/customer-invoice-manager) - small invoice manager (7 months ago)
 - [maximebf/php-debugbar](https://github.com/maximebf/php-debugbar) - Debug bar for PHP (8 months ago)
 - [xvilo/harvest-forecast](https://github.com/xvilo/harvest-forecast) - Harvest Forecast API client (8 months ago)
-- [verschoof/transip-api-bundle](https://github.com/verschoof/transip-api-bundle) - A Symfony2 bundle for the TransIP API (8 months ago)
+- [verschoof/transip-api-bundle](https://github.com/verschoof/transip-api-bundle) - A Symfony2 bundle for the TransIP API (9 months ago)
 
 ---
 
