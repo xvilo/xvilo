@@ -12,6 +12,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### What I've been working on
 
+- [xvilo/xvilo-hackernews-client](https://github.com/xvilo/xvilo-hackernews-client) - A PHP HackerNews client library using the official API. (today)
 - [transip/transip-api-symfony](https://github.com/transip/transip-api-symfony) - This bundle provides an instance of TransipAPI to Symfony&#39;s Container. (1 week ago)
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) - PHP library for TransIP Rest API (1 month ago)
 - [sserbin/twig-linter](https://github.com/sserbin/twig-linter) -  (1 month ago)
@@ -21,7 +22,6 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [xvilo/customer-invoice-manager](https://github.com/xvilo/customer-invoice-manager) - small invoice manager (7 months ago)
 - [maximebf/php-debugbar](https://github.com/maximebf/php-debugbar) - Debug bar for PHP (8 months ago)
 - [xvilo/harvest-forecast](https://github.com/xvilo/harvest-forecast) - Harvest Forecast API client (8 months ago)
-- [verschoof/transip-api-bundle](https://github.com/verschoof/transip-api-bundle) - A Symfony2 bundle for the TransIP API (9 months ago)
 
 ---
 
