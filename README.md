@@ -27,6 +27,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
+- [xvilo/hackernews-client](https://github.com/xvilo/hackernews-client) ([v0.1.0](https://github.com/xvilo/hackernews-client/releases/tag/v0.1.0), today) - A PHP HackerNews client library using the official API.
 - [transip/transip-api-symfony](https://github.com/transip/transip-api-symfony) ([v1.1.0](https://github.com/transip/transip-api-symfony/releases/tag/v1.1.0), 1 week ago) - This bundle provides an instance of TransipAPI to Symfony&#39;s Container.
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([v6.27.1](https://github.com/transip/transip-api-php/releases/tag/v6.27.1), 1 week ago) - PHP library for TransIP Rest API
 - [sserbin/twig-linter](https://github.com/sserbin/twig-linter) ([3.1.0](https://github.com/sserbin/twig-linter/releases/tag/3.1.0), 1 month ago) - 
