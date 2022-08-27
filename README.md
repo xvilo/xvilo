@@ -12,12 +12,12 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### What I've been working on
 
-- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster (today)
-- [xvilo/hackernews-client](https://github.com/xvilo/hackernews-client) - A PHP HackerNews client library using the official API. (4 days ago)
+- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster (1 day ago)
+- [xvilo/hackernews-client](https://github.com/xvilo/hackernews-client) - A PHP HackerNews client library using the official API. (5 days ago)
 - [transip/transip-api-symfony](https://github.com/transip/transip-api-symfony) - This bundle provides an instance of TransipAPI to Symfony&#39;s Container. (2 weeks ago)
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) - PHP library for TransIP Rest API (1 month ago)
 - [sserbin/twig-linter](https://github.com/sserbin/twig-linter) -  (1 month ago)
-- [transip/homebrew-transip](https://github.com/transip/homebrew-transip) - TransIP Homebrew Tap (1 month ago)
+- [transip/homebrew-transip](https://github.com/transip/homebrew-transip) - TransIP Homebrew Tap (2 months ago)
 - [xvilo/homebrew-test](https://github.com/xvilo/homebrew-test) -  (4 months ago)
 - [repman-io/repman](https://github.com/repman-io/repman) - Repman - PHP Repository Manager: packagist proxy and host for private packages  (5 months ago)
 - [xvilo/customer-invoice-manager](https://github.com/xvilo/customer-invoice-manager) - small invoice manager (7 months ago)
@@ -27,7 +27,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [xvilo/hackernews-client](https://github.com/xvilo/hackernews-client) ([v0.1.0](https://github.com/xvilo/hackernews-client/releases/tag/v0.1.0), 4 days ago) - A PHP HackerNews client library using the official API.
+- [xvilo/hackernews-client](https://github.com/xvilo/hackernews-client) ([v0.1.0](https://github.com/xvilo/hackernews-client/releases/tag/v0.1.0), 5 days ago) - A PHP HackerNews client library using the official API.
 - [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([15.1.0](https://github.com/sentry-kubernetes/charts/releases/tag/15.1.0), 1 week ago) - Easily deploy Sentry on your Kubernetes Cluster
 - [transip/transip-api-symfony](https://github.com/transip/transip-api-symfony) ([v1.1.0](https://github.com/transip/transip-api-symfony/releases/tag/v1.1.0), 2 weeks ago) - This bundle provides an instance of TransipAPI to Symfony&#39;s Container.
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([v6.27.1](https://github.com/transip/transip-api-php/releases/tag/v6.27.1), 2 weeks ago) - PHP library for TransIP Rest API
