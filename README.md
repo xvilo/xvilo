@@ -12,7 +12,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### What I've been working on
 
-- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster (5 days ago)
+- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster (6 days ago)
 - [xvilo/hackernews-client](https://github.com/xvilo/hackernews-client) - A PHP HackerNews client library using the official API. (1 week ago)
 - [transip/transip-api-symfony](https://github.com/transip/transip-api-symfony) - This bundle provides an instance of TransipAPI to Symfony&#39;s Container. (3 weeks ago)
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) - PHP library for TransIP Rest API (2 months ago)
