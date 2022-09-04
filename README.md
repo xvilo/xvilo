@@ -19,7 +19,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [sserbin/twig-linter](https://github.com/sserbin/twig-linter) -  (2 months ago)
 - [transip/homebrew-transip](https://github.com/transip/homebrew-transip) - TransIP Homebrew Tap (2 months ago)
 - [xvilo/homebrew-test](https://github.com/xvilo/homebrew-test) -  (4 months ago)
-- [repman-io/repman](https://github.com/repman-io/repman) - Repman - PHP Repository Manager: packagist proxy and host for private packages  (5 months ago)
+- [repman-io/repman](https://github.com/repman-io/repman) - Repman - PHP Repository Manager: packagist proxy and host for private packages  (6 months ago)
 - [xvilo/customer-invoice-manager](https://github.com/xvilo/customer-invoice-manager) - small invoice manager (8 months ago)
 - [maximebf/php-debugbar](https://github.com/maximebf/php-debugbar) - Debug bar for PHP (8 months ago)
 
