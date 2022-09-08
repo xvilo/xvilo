@@ -21,14 +21,14 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [xvilo/homebrew-test](https://github.com/xvilo/homebrew-test) -  (5 months ago)
 - [repman-io/repman](https://github.com/repman-io/repman) - Repman - PHP Repository Manager: packagist proxy and host for private packages  (6 months ago)
 - [xvilo/customer-invoice-manager](https://github.com/xvilo/customer-invoice-manager) - small invoice manager (8 months ago)
-- [maximebf/php-debugbar](https://github.com/maximebf/php-debugbar) - Debug bar for PHP (8 months ago)
+- [maximebf/php-debugbar](https://github.com/maximebf/php-debugbar) - Debug bar for PHP (9 months ago)
 
 ---
 
 #### My latest contributions
 
-- [maximebf/php-debugbar](https://github.com/maximebf/php-debugbar) ([v1.18.1](https://github.com/maximebf/php-debugbar/releases/tag/v1.18.1), today) - Debug bar for PHP
-- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.28.0](https://github.com/transip/transip-api-php/releases/tag/6.28.0), 1 day ago) - PHP library for TransIP Rest API
+- [maximebf/php-debugbar](https://github.com/maximebf/php-debugbar) ([v1.18.1](https://github.com/maximebf/php-debugbar/releases/tag/v1.18.1), 1 day ago) - Debug bar for PHP
+- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.28.0](https://github.com/transip/transip-api-php/releases/tag/6.28.0), 2 days ago) - PHP library for TransIP Rest API
 - [xvilo/hackernews-client](https://github.com/xvilo/hackernews-client) ([v0.1.0](https://github.com/xvilo/hackernews-client/releases/tag/v0.1.0), 2 weeks ago) - A PHP HackerNews client library using the official API.
 - [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([15.1.0](https://github.com/sentry-kubernetes/charts/releases/tag/15.1.0), 3 weeks ago) - Easily deploy Sentry on your Kubernetes Cluster
 - [transip/transip-api-symfony](https://github.com/transip/transip-api-symfony) ([v1.1.0](https://github.com/transip/transip-api-symfony/releases/tag/v1.1.0), 4 weeks ago) - This bundle provides an instance of TransipAPI to Symfony&#39;s Container.
