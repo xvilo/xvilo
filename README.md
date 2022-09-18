@@ -27,6 +27,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
+- [xvilo/crt-sh-api](https://github.com/xvilo/crt-sh-api) ([v0.1.0](https://github.com/xvilo/crt-sh-api/releases/tag/v0.1.0), today) - crt.sh PHP API client, search through Certificate Transparency logs
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.29.0](https://github.com/transip/transip-api-php/releases/tag/6.29.0), 1 week ago) - PHP library for TransIP Rest API
 - [maximebf/php-debugbar](https://github.com/maximebf/php-debugbar) ([v1.18.1](https://github.com/maximebf/php-debugbar/releases/tag/v1.18.1), 1 week ago) - Debug bar for PHP
 - [xvilo/hackernews-client](https://github.com/xvilo/hackernews-client) ([v0.1.0](https://github.com/xvilo/hackernews-client/releases/tag/v0.1.0), 3 weeks ago) - A PHP HackerNews client library using the official API.
