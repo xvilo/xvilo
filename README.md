@@ -12,6 +12,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### What I've been working on
 
+- [xvilo/crt-sh-api](https://github.com/xvilo/crt-sh-api) - crt.sh PHP API client, search through Certificate Transparency logs (today)
 - [repman-io/repman](https://github.com/repman-io/repman) - Repman - PHP Repository Manager: packagist proxy and host for private packages  (1 week ago)
 - [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster (3 weeks ago)
 - [xvilo/hackernews-client](https://github.com/xvilo/hackernews-client) - A PHP HackerNews client library using the official API. (3 weeks ago)
@@ -21,7 +22,6 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [transip/homebrew-transip](https://github.com/transip/homebrew-transip) - TransIP Homebrew Tap (2 months ago)
 - [xvilo/homebrew-test](https://github.com/xvilo/homebrew-test) -  (5 months ago)
 - [xvilo/customer-invoice-manager](https://github.com/xvilo/customer-invoice-manager) - small invoice manager (8 months ago)
-- [maximebf/php-debugbar](https://github.com/maximebf/php-debugbar) - Debug bar for PHP (9 months ago)
 
 ---
 
