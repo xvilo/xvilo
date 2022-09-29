@@ -17,7 +17,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster (1 month ago)
 - [xvilo/hackernews-client](https://github.com/xvilo/hackernews-client) - A PHP HackerNews client library using the official API. (1 month ago)
 - [transip/transip-api-symfony](https://github.com/transip/transip-api-symfony) - This bundle provides an instance of TransipAPI to Symfony&#39;s Container. (1 month ago)
-- [transip/transip-api-php](https://github.com/transip/transip-api-php) - PHP library for TransIP Rest API (2 months ago)
+- [transip/transip-api-php](https://github.com/transip/transip-api-php) - PHP library for TransIP Rest API (3 months ago)
 - [sserbin/twig-linter](https://github.com/sserbin/twig-linter) -  (3 months ago)
 - [transip/homebrew-transip](https://github.com/transip/homebrew-transip) - TransIP Homebrew Tap (3 months ago)
 - [xvilo/homebrew-test](https://github.com/xvilo/homebrew-test) -  (5 months ago)
@@ -27,7 +27,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.29.1](https://github.com/transip/transip-api-php/releases/tag/6.29.1), today) - PHP library for TransIP Rest API
+- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.29.1](https://github.com/transip/transip-api-php/releases/tag/6.29.1), 1 day ago) - PHP library for TransIP Rest API
 - [xvilo/crt-sh-api](https://github.com/xvilo/crt-sh-api) ([v0.1.0](https://github.com/xvilo/crt-sh-api/releases/tag/v0.1.0), 1 week ago) - crt.sh PHP API client, search through Certificate Transparency logs
 - [maximebf/php-debugbar](https://github.com/maximebf/php-debugbar) ([v1.18.1](https://github.com/maximebf/php-debugbar/releases/tag/v1.18.1), 3 weeks ago) - Debug bar for PHP
 - [xvilo/hackernews-client](https://github.com/xvilo/hackernews-client) ([v0.1.0](https://github.com/xvilo/hackernews-client/releases/tag/v0.1.0), 1 month ago) - A PHP HackerNews client library using the official API.
