@@ -20,17 +20,17 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) - PHP library for TransIP Rest API (3 months ago)
 - [sserbin/twig-linter](https://github.com/sserbin/twig-linter) -  (3 months ago)
 - [transip/homebrew-transip](https://github.com/transip/homebrew-transip) - TransIP Homebrew Tap (3 months ago)
-- [xvilo/homebrew-test](https://github.com/xvilo/homebrew-test) -  (5 months ago)
+- [xvilo/homebrew-test](https://github.com/xvilo/homebrew-test) -  (6 months ago)
 - [xvilo/customer-invoice-manager](https://github.com/xvilo/customer-invoice-manager) - small invoice manager (9 months ago)
 
 ---
 
 #### My latest contributions
 
-- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([16.0.0](https://github.com/sentry-kubernetes/charts/releases/tag/16.0.0), 1 day ago) - Easily deploy Sentry on your Kubernetes Cluster
-- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.29.1](https://github.com/transip/transip-api-php/releases/tag/6.29.1), 6 days ago) - PHP library for TransIP Rest API
+- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([16.0.0](https://github.com/sentry-kubernetes/charts/releases/tag/16.0.0), 2 days ago) - Easily deploy Sentry on your Kubernetes Cluster
+- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.29.1](https://github.com/transip/transip-api-php/releases/tag/6.29.1), 1 week ago) - PHP library for TransIP Rest API
 - [xvilo/crt-sh-api](https://github.com/xvilo/crt-sh-api) ([v0.1.0](https://github.com/xvilo/crt-sh-api/releases/tag/v0.1.0), 2 weeks ago) - crt.sh PHP API client, search through Certificate Transparency logs
-- [maximebf/php-debugbar](https://github.com/maximebf/php-debugbar) ([v1.18.1](https://github.com/maximebf/php-debugbar/releases/tag/v1.18.1), 3 weeks ago) - Debug bar for PHP
+- [maximebf/php-debugbar](https://github.com/maximebf/php-debugbar) ([v1.18.1](https://github.com/maximebf/php-debugbar/releases/tag/v1.18.1), 4 weeks ago) - Debug bar for PHP
 - [xvilo/hackernews-client](https://github.com/xvilo/hackernews-client) ([v0.1.0](https://github.com/xvilo/hackernews-client/releases/tag/v0.1.0), 1 month ago) - A PHP HackerNews client library using the official API.
 - [transip/transip-api-symfony](https://github.com/transip/transip-api-symfony) ([v1.1.0](https://github.com/transip/transip-api-symfony/releases/tag/v1.1.0), 1 month ago) - This bundle provides an instance of TransipAPI to Symfony&#39;s Container.
 - [sserbin/twig-linter](https://github.com/sserbin/twig-linter) ([3.1.0](https://github.com/sserbin/twig-linter/releases/tag/3.1.0), 3 months ago) - 
