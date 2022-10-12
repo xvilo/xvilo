@@ -12,9 +12,9 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### What I've been working on
 
+- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster (today)
 - [xvilo/crt-sh-api](https://github.com/xvilo/crt-sh-api) - crt.sh PHP API client, search through Certificate Transparency logs (3 weeks ago)
 - [repman-io/repman](https://github.com/repman-io/repman) - Repman - PHP Repository Manager: packagist proxy and host for private packages  (1 month ago)
-- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster (1 month ago)
 - [xvilo/hackernews-client](https://github.com/xvilo/hackernews-client) - A PHP HackerNews client library using the official API. (1 month ago)
 - [transip/transip-api-symfony](https://github.com/transip/transip-api-symfony) - This bundle provides an instance of TransipAPI to Symfony&#39;s Container. (2 months ago)
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) - PHP library for TransIP Rest API (3 months ago)
