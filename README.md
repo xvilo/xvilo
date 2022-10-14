@@ -27,7 +27,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.29.2](https://github.com/transip/transip-api-php/releases/tag/6.29.2), 4 days ago) - PHP library for TransIP Rest API
+- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.29.3](https://github.com/transip/transip-api-php/releases/tag/6.29.3), today) - PHP library for TransIP Rest API
 - [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([16.0.0](https://github.com/sentry-kubernetes/charts/releases/tag/16.0.0), 1 week ago) - Easily deploy Sentry on your Kubernetes Cluster
 - [xvilo/crt-sh-api](https://github.com/xvilo/crt-sh-api) ([v0.1.0](https://github.com/xvilo/crt-sh-api/releases/tag/v0.1.0), 3 weeks ago) - crt.sh PHP API client, search through Certificate Transparency logs
 - [maximebf/php-debugbar](https://github.com/maximebf/php-debugbar) ([v1.18.1](https://github.com/maximebf/php-debugbar/releases/tag/v1.18.1), 1 month ago) - Debug bar for PHP
