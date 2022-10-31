@@ -27,8 +27,8 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
+- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([17.0.0](https://github.com/sentry-kubernetes/charts/releases/tag/17.0.0), today) - Easily deploy Sentry on your Kubernetes Cluster
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.29.3](https://github.com/transip/transip-api-php/releases/tag/6.29.3), 2 weeks ago) - PHP library for TransIP Rest API
-- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([16.0.0](https://github.com/sentry-kubernetes/charts/releases/tag/16.0.0), 4 weeks ago) - Easily deploy Sentry on your Kubernetes Cluster
 - [xvilo/crt-sh-api](https://github.com/xvilo/crt-sh-api) ([v0.1.0](https://github.com/xvilo/crt-sh-api/releases/tag/v0.1.0), 1 month ago) - crt.sh PHP API client, search through Certificate Transparency logs
 - [maximebf/php-debugbar](https://github.com/maximebf/php-debugbar) ([v1.18.1](https://github.com/maximebf/php-debugbar/releases/tag/v1.18.1), 1 month ago) - Debug bar for PHP
 - [xvilo/hackernews-client](https://github.com/xvilo/hackernews-client) ([v0.1.0](https://github.com/xvilo/hackernews-client/releases/tag/v0.1.0), 2 months ago) - A PHP HackerNews client library using the official API.
