@@ -32,7 +32,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [xvilo/crt-sh-api](https://github.com/xvilo/crt-sh-api) ([v0.1.0](https://github.com/xvilo/crt-sh-api/releases/tag/v0.1.0), 1 month ago) - crt.sh PHP API client, search through Certificate Transparency logs
 - [maximebf/php-debugbar](https://github.com/maximebf/php-debugbar) ([v1.18.1](https://github.com/maximebf/php-debugbar/releases/tag/v1.18.1), 2 months ago) - Debug bar for PHP
 - [xvilo/hackernews-client](https://github.com/xvilo/hackernews-client) ([v0.1.0](https://github.com/xvilo/hackernews-client/releases/tag/v0.1.0), 2 months ago) - A PHP HackerNews client library using the official API.
-- [transip/transip-api-symfony](https://github.com/transip/transip-api-symfony) ([v1.1.0](https://github.com/transip/transip-api-symfony/releases/tag/v1.1.0), 2 months ago) - This bundle provides an instance of TransipAPI to Symfony&#39;s Container.
+- [transip/transip-api-symfony](https://github.com/transip/transip-api-symfony) ([v1.1.0](https://github.com/transip/transip-api-symfony/releases/tag/v1.1.0), 3 months ago) - This bundle provides an instance of TransipAPI to Symfony&#39;s Container.
 - [sserbin/twig-linter](https://github.com/sserbin/twig-linter) ([3.1.0](https://github.com/sserbin/twig-linter/releases/tag/3.1.0), 4 months ago) - 
 - [repman-io/repman](https://github.com/repman-io/repman) ([1.4.0](https://github.com/repman-io/repman/releases/tag/1.4.0), 10 months ago) - Repman - PHP Repository Manager: packagist proxy and host for private packages 
 - [xvilo/harvest-forecast](https://github.com/xvilo/harvest-forecast) ([v1.1.1](https://github.com/xvilo/harvest-forecast/releases/tag/v1.1.1), 2 years ago) - Harvest Forecast API client
