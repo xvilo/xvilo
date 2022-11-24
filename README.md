@@ -36,4 +36,3 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [sserbin/twig-linter](https://github.com/sserbin/twig-linter) ([3.1.0](https://github.com/sserbin/twig-linter/releases/tag/3.1.0), 4 months ago) - 
 - [repman-io/repman](https://github.com/repman-io/repman) ([1.4.0](https://github.com/repman-io/repman/releases/tag/1.4.0), 10 months ago) - Repman - PHP Repository Manager: packagist proxy and host for private packages 
 - [xvilo/harvest-forecast](https://github.com/xvilo/harvest-forecast) ([v1.1.1](https://github.com/xvilo/harvest-forecast/releases/tag/v1.1.1), 2 years ago) - Harvest Forecast API client
-- [verschoof/transip-api-bundle](https://github.com/verschoof/transip-api-bundle) ([v1.2.5](https://github.com/verschoof/transip-api-bundle/releases/tag/v1.2.5), 5 years ago) - A Symfony2 bundle for the TransIP API
