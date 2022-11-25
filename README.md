@@ -19,7 +19,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [transip/transip-api-symfony](https://github.com/transip/transip-api-symfony) - This bundle provides an instance of TransipAPI to Symfony&#39;s Container. (3 months ago)
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) - PHP library for TransIP Rest API (4 months ago)
 - [sserbin/twig-linter](https://github.com/sserbin/twig-linter) -  (4 months ago)
-- [transip/homebrew-transip](https://github.com/transip/homebrew-transip) - TransIP Homebrew Tap (4 months ago)
+- [transip/homebrew-transip](https://github.com/transip/homebrew-transip) - TransIP Homebrew Tap (5 months ago)
 - [xvilo/homebrew-test](https://github.com/xvilo/homebrew-test) -  (7 months ago)
 - [xvilo/customer-invoice-manager](https://github.com/xvilo/customer-invoice-manager) - small invoice manager (10 months ago)
 
