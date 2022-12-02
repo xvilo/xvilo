@@ -21,7 +21,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [sserbin/twig-linter](https://github.com/sserbin/twig-linter) -  (5 months ago)
 - [transip/homebrew-transip](https://github.com/transip/homebrew-transip) - TransIP Homebrew Tap (5 months ago)
 - [xvilo/homebrew-test](https://github.com/xvilo/homebrew-test) -  (7 months ago)
-- [xvilo/customer-invoice-manager](https://github.com/xvilo/customer-invoice-manager) - small invoice manager (10 months ago)
+- [xvilo/customer-invoice-manager](https://github.com/xvilo/customer-invoice-manager) - small invoice manager (11 months ago)
 
 ---
 
