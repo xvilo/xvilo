@@ -12,7 +12,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### What I've been working on
 
-- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster (2 weeks ago)
+- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster (3 weeks ago)
 - [xvilo/crt-sh-api](https://github.com/xvilo/crt-sh-api) - crt.sh PHP API client, search through Certificate Transparency logs (2 months ago)
 - [repman-io/repman](https://github.com/repman-io/repman) - Repman - PHP Repository Manager: packagist proxy and host for private packages  (2 months ago)
 - [xvilo/hackernews-client](https://github.com/xvilo/hackernews-client) - A PHP HackerNews client library using the official API. (3 months ago)
@@ -34,4 +34,4 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [xvilo/hackernews-client](https://github.com/xvilo/hackernews-client) ([v0.1.0](https://github.com/xvilo/hackernews-client/releases/tag/v0.1.0), 3 months ago) - A PHP HackerNews client library using the official API.
 - [transip/transip-api-symfony](https://github.com/transip/transip-api-symfony) ([v1.1.0](https://github.com/transip/transip-api-symfony/releases/tag/v1.1.0), 3 months ago) - This bundle provides an instance of TransipAPI to Symfony&#39;s Container.
 - [sserbin/twig-linter](https://github.com/sserbin/twig-linter) ([3.1.0](https://github.com/sserbin/twig-linter/releases/tag/3.1.0), 5 months ago) - 
-- [repman-io/repman](https://github.com/repman-io/repman) ([1.4.0](https://github.com/repman-io/repman/releases/tag/1.4.0), 10 months ago) - Repman - PHP Repository Manager: packagist proxy and host for private packages 
+- [repman-io/repman](https://github.com/repman-io/repman) ([1.4.0](https://github.com/repman-io/repman/releases/tag/1.4.0), 11 months ago) - Repman - PHP Repository Manager: packagist proxy and host for private packages 
