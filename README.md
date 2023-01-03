@@ -27,7 +27,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) ([v0.1.0](https://github.com/xvilo/ovpay-api/releases/tag/v0.1.0), 1 day ago) - 
+- [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) ([v0.2.0](https://github.com/xvilo/ovpay-api/releases/tag/v0.2.0), today) - 
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.30.1](https://github.com/transip/transip-api-php/releases/tag/6.30.1), 2 weeks ago) - PHP library for TransIP Rest API
 - [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([17.0.0](https://github.com/sentry-kubernetes/charts/releases/tag/17.0.0), 2 months ago) - Easily deploy Sentry on your Kubernetes Cluster
 - [xvilo/crt-sh-api](https://github.com/xvilo/crt-sh-api) ([v0.1.0](https://github.com/xvilo/crt-sh-api/releases/tag/v0.1.0), 3 months ago) - crt.sh PHP API client, search through Certificate Transparency logs
