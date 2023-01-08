@@ -12,7 +12,8 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### What I've been working on
 
-- [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) - Unofficial API Wrapper for OVPay (3 days ago)
+- [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) - Unofficial API Wrapper for OVPay (today)
+- [xvilo/harvest-forecast](https://github.com/xvilo/harvest-forecast) - Harvest Forecast API client (today)
 - [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster (1 month ago)
 - [xvilo/crt-sh-api](https://github.com/xvilo/crt-sh-api) - crt.sh PHP API client, search through Certificate Transparency logs (3 months ago)
 - [repman-io/repman](https://github.com/repman-io/repman) - Repman - PHP Repository Manager: packagist proxy and host for private packages  (4 months ago)
@@ -21,12 +22,12 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) - PHP library for TransIP Rest API (6 months ago)
 - [sserbin/twig-linter](https://github.com/sserbin/twig-linter) -  (6 months ago)
 - [transip/homebrew-transip](https://github.com/transip/homebrew-transip) - TransIP Homebrew Tap (6 months ago)
-- [xvilo/homebrew-test](https://github.com/xvilo/homebrew-test) -  (9 months ago)
 
 ---
 
 #### My latest contributions
 
+- [xvilo/harvest-forecast](https://github.com/xvilo/harvest-forecast) ([v1.1.2](https://github.com/xvilo/harvest-forecast/releases/tag/v1.1.2), today) - Harvest Forecast API client
 - [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) ([v0.3.1](https://github.com/xvilo/ovpay-api/releases/tag/v0.3.1), 4 days ago) - Unofficial API Wrapper for OVPay
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.30.1](https://github.com/transip/transip-api-php/releases/tag/6.30.1), 2 weeks ago) - PHP library for TransIP Rest API
 - [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([17.0.0](https://github.com/sentry-kubernetes/charts/releases/tag/17.0.0), 2 months ago) - Easily deploy Sentry on your Kubernetes Cluster
