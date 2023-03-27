@@ -12,7 +12,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### What I've been working on
 
-- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (3 days ago)
+- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (today)
 - [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) - Unofficial API Wrapper for OVPay (2 months ago)
 - [xvilo/harvest-forecast](https://github.com/xvilo/harvest-forecast) - Harvest Forecast API client (2 months ago)
 - [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster (4 months ago)
@@ -27,7 +27,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([symfony-app-0.2.1](https://github.com/xvilo/helm-charts/releases/tag/symfony-app-0.2.1), 3 days ago) - Repository of helm charts
+- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([symfony-app-0.2.2](https://github.com/xvilo/helm-charts/releases/tag/symfony-app-0.2.2), today) - Repository of helm charts
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.35.2](https://github.com/transip/transip-api-php/releases/tag/6.35.2), 1 week ago) - PHP library for TransIP Rest API
 - [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) ([v0.4.0](https://github.com/xvilo/ovpay-api/releases/tag/v0.4.0), 2 months ago) - Unofficial API Wrapper for OVPay
 - [xvilo/harvest-forecast](https://github.com/xvilo/harvest-forecast) ([v1.1.2](https://github.com/xvilo/harvest-forecast/releases/tag/v1.1.2), 2 months ago) - Harvest Forecast API client
