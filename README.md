@@ -13,6 +13,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 #### What I've been working on
 
 - [open-telemetry/opentelemetry-php-contrib](https://github.com/open-telemetry/opentelemetry-php-contrib) - opentelemetry-php-contrib (today)
+- [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) - [READONLY] Symfony auto-instrumentation (today)
 - [Plovr/Plovr-Docker](https://github.com/Plovr/Plovr-Docker) - Docker container to test/build Plovr Build (1 day ago)
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (2 days ago)
 - [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) - Unofficial API Wrapper for OVPay (2 months ago)
@@ -21,7 +22,6 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [xvilo/crt-sh-api](https://github.com/xvilo/crt-sh-api) - crt.sh PHP API client, search through Certificate Transparency logs (6 months ago)
 - [repman-io/repman](https://github.com/repman-io/repman) - Repman - PHP Repository Manager: packagist proxy and host for private packages  (6 months ago)
 - [xvilo/hackernews-client](https://github.com/xvilo/hackernews-client) - A PHP HackerNews client library using the official API. (7 months ago)
-- [transip/transip-api-symfony](https://github.com/transip/transip-api-symfony) - This bundle provides an instance of TransipAPI to Symfony&#39;s Container. (7 months ago)
 
 ---
 
@@ -29,6 +29,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([symfony-app-0.2.2](https://github.com/xvilo/helm-charts/releases/tag/symfony-app-0.2.2), 2 days ago) - Repository of helm charts
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.35.2](https://github.com/transip/transip-api-php/releases/tag/6.35.2), 2 weeks ago) - PHP library for TransIP Rest API
+- [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([0.0.1](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/0.0.1), 1 month ago) - [READONLY] Symfony auto-instrumentation
 - [open-telemetry/opentelemetry-php-contrib](https://github.com/open-telemetry/opentelemetry-php-contrib) ([1.0.0beta2](https://github.com/open-telemetry/opentelemetry-php-contrib/releases/tag/1.0.0beta2), 1 month ago) - opentelemetry-php-contrib
 - [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) ([v0.4.0](https://github.com/xvilo/ovpay-api/releases/tag/v0.4.0), 2 months ago) - Unofficial API Wrapper for OVPay
 - [xvilo/harvest-forecast](https://github.com/xvilo/harvest-forecast) ([v1.1.2](https://github.com/xvilo/harvest-forecast/releases/tag/v1.1.2), 2 months ago) - Harvest Forecast API client
@@ -36,4 +37,3 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [xvilo/crt-sh-api](https://github.com/xvilo/crt-sh-api) ([v0.1.0](https://github.com/xvilo/crt-sh-api/releases/tag/v0.1.0), 6 months ago) - crt.sh PHP API client, search through Certificate Transparency logs
 - [xvilo/hackernews-client](https://github.com/xvilo/hackernews-client) ([v0.1.0](https://github.com/xvilo/hackernews-client/releases/tag/v0.1.0), 7 months ago) - A PHP HackerNews client library using the official API.
 - [transip/transip-api-symfony](https://github.com/transip/transip-api-symfony) ([v1.1.0](https://github.com/transip/transip-api-symfony/releases/tag/v1.1.0), 7 months ago) - This bundle provides an instance of TransipAPI to Symfony&#39;s Container.
-- [sserbin/twig-linter](https://github.com/sserbin/twig-linter) ([3.1.0](https://github.com/sserbin/twig-linter/releases/tag/3.1.0), 9 months ago) - 
