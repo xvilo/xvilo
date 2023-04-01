@@ -27,9 +27,9 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
+- [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta8](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta8), today) - [READONLY] Symfony auto-instrumentation
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.37.2](https://github.com/transip/transip-api-php/releases/tag/6.37.2), 1 day ago) - PHP library for TransIP Rest API
 - [kalmargabor/crawler-check](https://github.com/kalmargabor/crawler-check) ([1.0.2](https://github.com/kalmargabor/crawler-check/releases/tag/1.0.2), 2 days ago) - Verify Googlebot (or others) by their IP addresses
-- [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta7](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta7), 3 days ago) - [READONLY] Symfony auto-instrumentation
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([symfony-app-0.2.2](https://github.com/xvilo/helm-charts/releases/tag/symfony-app-0.2.2), 5 days ago) - Repository of helm charts
 - [open-telemetry/opentelemetry-php-contrib](https://github.com/open-telemetry/opentelemetry-php-contrib) ([1.0.0beta2](https://github.com/open-telemetry/opentelemetry-php-contrib/releases/tag/1.0.0beta2), 1 month ago) - opentelemetry-php-contrib
 - [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) ([v0.4.0](https://github.com/xvilo/ovpay-api/releases/tag/v0.4.0), 2 months ago) - Unofficial API Wrapper for OVPay
