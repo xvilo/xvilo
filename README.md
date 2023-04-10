@@ -16,7 +16,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [open-telemetry/opentelemetry-php-contrib](https://github.com/open-telemetry/opentelemetry-php-contrib) - opentelemetry-php-contrib (1 week ago)
 - [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) - The OpenTelemetry PHP Library (1 week ago)
 - [Plovr/Plovr-Docker](https://github.com/Plovr/Plovr-Docker) - Docker container to test/build Plovr Build (1 week ago)
-- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (1 week ago)
+- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (2 weeks ago)
 - [kalmargabor/crawler-check](https://github.com/kalmargabor/crawler-check) - Verify Googlebot (or others) by their IP addresses (2 weeks ago)
 - [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) - Unofficial API Wrapper for OVPay (3 months ago)
 - [xvilo/harvest-forecast](https://github.com/xvilo/harvest-forecast) - Harvest Forecast API client (3 months ago)
@@ -30,7 +30,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta8](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta8), 1 week ago) - [READONLY] Symfony auto-instrumentation
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.37.2](https://github.com/transip/transip-api-php/releases/tag/6.37.2), 1 week ago) - PHP library for TransIP Rest API
 - [kalmargabor/crawler-check](https://github.com/kalmargabor/crawler-check) ([1.0.2](https://github.com/kalmargabor/crawler-check/releases/tag/1.0.2), 1 week ago) - Verify Googlebot (or others) by their IP addresses
-- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([symfony-app-0.2.2](https://github.com/xvilo/helm-charts/releases/tag/symfony-app-0.2.2), 1 week ago) - Repository of helm charts
+- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([symfony-app-0.2.2](https://github.com/xvilo/helm-charts/releases/tag/symfony-app-0.2.2), 2 weeks ago) - Repository of helm charts
 - [open-telemetry/opentelemetry-php-contrib](https://github.com/open-telemetry/opentelemetry-php-contrib) ([1.0.0beta2](https://github.com/open-telemetry/opentelemetry-php-contrib/releases/tag/1.0.0beta2), 1 month ago) - opentelemetry-php-contrib
 - [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) ([v0.4.0](https://github.com/xvilo/ovpay-api/releases/tag/v0.4.0), 3 months ago) - Unofficial API Wrapper for OVPay
 - [xvilo/harvest-forecast](https://github.com/xvilo/harvest-forecast) ([v1.1.2](https://github.com/xvilo/harvest-forecast/releases/tag/v1.1.2), 3 months ago) - Harvest Forecast API client
