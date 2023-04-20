@@ -17,7 +17,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) - [READONLY] Symfony auto-instrumentation (2 weeks ago)
 - [Plovr/Plovr-Docker](https://github.com/Plovr/Plovr-Docker) - Docker container to test/build Plovr Build (3 weeks ago)
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (3 weeks ago)
-- [kalmargabor/crawler-check](https://github.com/kalmargabor/crawler-check) - Verify Googlebot (or others) by their IP addresses (4 weeks ago)
+- [kalmargabor/crawler-check](https://github.com/kalmargabor/crawler-check) - Verify Googlebot (or others) by their IP addresses (1 month ago)
 - [xvilo/harvest-forecast](https://github.com/xvilo/harvest-forecast) - Harvest Forecast API client (3 months ago)
 - [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) - Unofficial API Wrapper for OVPay (3 months ago)
 - [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster (5 months ago)
@@ -27,9 +27,9 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta9](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta9), today) - [READONLY] Symfony auto-instrumentation
+- [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta9](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta9), 1 day ago) - [READONLY] Symfony auto-instrumentation
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.37.2](https://github.com/transip/transip-api-php/releases/tag/6.37.2), 2 weeks ago) - PHP library for TransIP Rest API
-- [kalmargabor/crawler-check](https://github.com/kalmargabor/crawler-check) ([1.0.2](https://github.com/kalmargabor/crawler-check/releases/tag/1.0.2), 2 weeks ago) - Verify Googlebot (or others) by their IP addresses
+- [kalmargabor/crawler-check](https://github.com/kalmargabor/crawler-check) ([1.0.2](https://github.com/kalmargabor/crawler-check/releases/tag/1.0.2), 3 weeks ago) - Verify Googlebot (or others) by their IP addresses
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([symfony-app-0.2.2](https://github.com/xvilo/helm-charts/releases/tag/symfony-app-0.2.2), 3 weeks ago) - Repository of helm charts
 - [open-telemetry/opentelemetry-php-contrib](https://github.com/open-telemetry/opentelemetry-php-contrib) ([1.0.0beta2](https://github.com/open-telemetry/opentelemetry-php-contrib/releases/tag/1.0.0beta2), 2 months ago) - opentelemetry-php-contrib
 - [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) ([v0.4.0](https://github.com/xvilo/ovpay-api/releases/tag/v0.4.0), 3 months ago) - Unofficial API Wrapper for OVPay
