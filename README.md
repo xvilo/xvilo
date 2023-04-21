@@ -27,8 +27,8 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta9](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta9), 1 day ago) - [READONLY] Symfony auto-instrumentation
-- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.37.2](https://github.com/transip/transip-api-php/releases/tag/6.37.2), 2 weeks ago) - PHP library for TransIP Rest API
+- [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta9](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta9), 2 days ago) - [READONLY] Symfony auto-instrumentation
+- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.37.2](https://github.com/transip/transip-api-php/releases/tag/6.37.2), 3 weeks ago) - PHP library for TransIP Rest API
 - [kalmargabor/crawler-check](https://github.com/kalmargabor/crawler-check) ([1.0.2](https://github.com/kalmargabor/crawler-check/releases/tag/1.0.2), 3 weeks ago) - Verify Googlebot (or others) by their IP addresses
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([symfony-app-0.2.2](https://github.com/xvilo/helm-charts/releases/tag/symfony-app-0.2.2), 3 weeks ago) - Repository of helm charts
 - [open-telemetry/opentelemetry-php-contrib](https://github.com/open-telemetry/opentelemetry-php-contrib) ([1.0.0beta2](https://github.com/open-telemetry/opentelemetry-php-contrib/releases/tag/1.0.0beta2), 2 months ago) - opentelemetry-php-contrib
