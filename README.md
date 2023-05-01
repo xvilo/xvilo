@@ -13,9 +13,9 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 #### What I've been working on
 
 - [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) - Unofficial API Wrapper for OVPay (1 week ago)
-- [open-telemetry/opentelemetry-php-contrib](https://github.com/open-telemetry/opentelemetry-php-contrib) - opentelemetry-php-contrib (4 weeks ago)
-- [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) - The OpenTelemetry PHP Library (4 weeks ago)
-- [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) - [READONLY] Symfony auto-instrumentation (4 weeks ago)
+- [open-telemetry/opentelemetry-php-contrib](https://github.com/open-telemetry/opentelemetry-php-contrib) - opentelemetry-php-contrib (1 month ago)
+- [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) - The OpenTelemetry PHP Library (1 month ago)
+- [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) - [READONLY] Symfony auto-instrumentation (1 month ago)
 - [Plovr/Plovr-Docker](https://github.com/Plovr/Plovr-Docker) - Docker container to test/build Plovr Build (1 month ago)
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (1 month ago)
 - [kalmargabor/crawler-check](https://github.com/kalmargabor/crawler-check) - Verify Googlebot (or others) by their IP addresses (1 month ago)
