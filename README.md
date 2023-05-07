@@ -27,7 +27,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([mastodon-0.1.0](https://github.com/xvilo/helm-charts/releases/tag/mastodon-0.1.0), today) - Repository of helm charts
+- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([mastodon-0.2.0](https://github.com/xvilo/helm-charts/releases/tag/mastodon-0.2.0), today) - Repository of helm charts
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.38.0](https://github.com/transip/transip-api-php/releases/tag/6.38.0), 3 days ago) - PHP library for TransIP Rest API
 - [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([18.0.0](https://github.com/sentry-kubernetes/charts/releases/tag/18.0.0), 5 days ago) - Easily deploy Sentry on your Kubernetes Cluster
 - [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) ([v0.5.0](https://github.com/xvilo/ovpay-api/releases/tag/v0.5.0), 2 weeks ago) - Unofficial API Wrapper for OVPay
