@@ -12,8 +12,8 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### What I've been working on
 
-- [teamdotblue/helm](https://github.com/teamdotblue/helm) - Repository that contains helm charts published by team.blue. The code is provided as-is with no warranties. (1 day ago)
-- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (5 days ago)
+- [teamdotblue/helm](https://github.com/teamdotblue/helm) - Repository that contains helm charts published by team.blue. The code is provided as-is with no warranties. (2 days ago)
+- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (6 days ago)
 - [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) - Unofficial API Wrapper for OVPay (2 weeks ago)
 - [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) - The OpenTelemetry PHP Library (1 month ago)
 - [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) - [READONLY] Symfony auto-instrumentation (1 month ago)
@@ -27,9 +27,9 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [teamdotblue/helm](https://github.com/teamdotblue/helm) ([repman-0.1.0](https://github.com/teamdotblue/helm/releases/tag/repman-0.1.0), 1 day ago) - Repository that contains helm charts published by team.blue. The code is provided as-is with no warranties.
-- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.41.0](https://github.com/transip/transip-api-php/releases/tag/6.41.0), 3 days ago) - PHP library for TransIP Rest API
-- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([symfony-app-0.4.0](https://github.com/xvilo/helm-charts/releases/tag/symfony-app-0.4.0), 5 days ago) - Repository of helm charts
+- [teamdotblue/helm](https://github.com/teamdotblue/helm) ([repman-0.1.0](https://github.com/teamdotblue/helm/releases/tag/repman-0.1.0), 2 days ago) - Repository that contains helm charts published by team.blue. The code is provided as-is with no warranties.
+- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.41.0](https://github.com/transip/transip-api-php/releases/tag/6.41.0), 4 days ago) - PHP library for TransIP Rest API
+- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([symfony-app-0.4.0](https://github.com/xvilo/helm-charts/releases/tag/symfony-app-0.4.0), 6 days ago) - Repository of helm charts
 - [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta10](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta10), 2 weeks ago) - [READONLY] Symfony auto-instrumentation
 - [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([18.0.0](https://github.com/sentry-kubernetes/charts/releases/tag/18.0.0), 3 weeks ago) - Easily deploy Sentry on your Kubernetes Cluster
 - [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) ([v0.5.0](https://github.com/xvilo/ovpay-api/releases/tag/v0.5.0), 1 month ago) - Unofficial API Wrapper for OVPay
