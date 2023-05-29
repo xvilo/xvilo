@@ -27,7 +27,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [teamdotblue/helm](https://github.com/teamdotblue/helm) ([repman-0.1.1](https://github.com/teamdotblue/helm/releases/tag/repman-0.1.1), today) - Repository that contains helm charts published by team.blue. The code is provided as-is with no warranties.
+- [teamdotblue/helm](https://github.com/teamdotblue/helm) ([repman-0.2.0](https://github.com/teamdotblue/helm/releases/tag/repman-0.2.0), today) - Repository that contains helm charts published by team.blue. The code is provided as-is with no warranties.
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.41.0](https://github.com/transip/transip-api-php/releases/tag/6.41.0), 5 days ago) - PHP library for TransIP Rest API
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([symfony-app-0.4.0](https://github.com/xvilo/helm-charts/releases/tag/symfony-app-0.4.0), 1 week ago) - Repository of helm charts
 - [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta10](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta10), 2 weeks ago) - [READONLY] Symfony auto-instrumentation
