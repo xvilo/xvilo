@@ -12,8 +12,8 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### What I've been working on
 
+- [xvilo/groet-generator](https://github.com/xvilo/groet-generator) - groet-generator (today)
 - [teamdotblue/helm](https://github.com/teamdotblue/helm) - Repository that contains helm charts published by team.blue. The code is provided as-is with no warranties. (today)
-- [xvilo/groet-generator](https://github.com/xvilo/groet-generator) - groet-generator (1 day ago)
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (1 week ago)
 - [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) - Unofficial API Wrapper for OVPay (3 weeks ago)
 - [open-telemetry/opentelemetry-php-contrib](https://github.com/open-telemetry/opentelemetry-php-contrib) - opentelemetry-php-contrib (1 month ago)
@@ -27,7 +27,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [teamdotblue/helm](https://github.com/teamdotblue/helm) ([repman-0.2.0](https://github.com/teamdotblue/helm/releases/tag/repman-0.2.0), 1 day ago) - Repository that contains helm charts published by team.blue. The code is provided as-is with no warranties.
+- [teamdotblue/helm](https://github.com/teamdotblue/helm) ([repman-0.2.1](https://github.com/teamdotblue/helm/releases/tag/repman-0.2.1), today) - Repository that contains helm charts published by team.blue. The code is provided as-is with no warranties.
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.41.0](https://github.com/transip/transip-api-php/releases/tag/6.41.0), 6 days ago) - PHP library for TransIP Rest API
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([symfony-app-0.4.0](https://github.com/xvilo/helm-charts/releases/tag/symfony-app-0.4.0), 1 week ago) - Repository of helm charts
 - [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta10](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta10), 2 weeks ago) - [READONLY] Symfony auto-instrumentation
