@@ -12,8 +12,8 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### What I've been working on
 
-- [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) - [READONLY] Symfony auto-instrumentation (today)
-- [open-telemetry/opentelemetry-php-contrib](https://github.com/open-telemetry/opentelemetry-php-contrib) - opentelemetry-php-contrib (today)
+- [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) - [READONLY] Symfony auto-instrumentation (1 day ago)
+- [open-telemetry/opentelemetry-php-contrib](https://github.com/open-telemetry/opentelemetry-php-contrib) - opentelemetry-php-contrib (1 day ago)
 - [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) - Unofficial API Wrapper for OVPay (1 week ago)
 - [xvilo/groet-generator](https://github.com/xvilo/groet-generator) - groet-generator (1 week ago)
 - [teamdotblue/helm](https://github.com/teamdotblue/helm) - Repository that contains helm charts published by team.blue. The code is provided as-is with no warranties. (1 week ago)
@@ -29,7 +29,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 - [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta11](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta11), 1 week ago) - [READONLY] Symfony auto-instrumentation
 - [teamdotblue/helm](https://github.com/teamdotblue/helm) ([repman-0.3.0](https://github.com/teamdotblue/helm/releases/tag/repman-0.3.0), 1 week ago) - Repository that contains helm charts published by team.blue. The code is provided as-is with no warranties.
-- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.41.0](https://github.com/transip/transip-api-php/releases/tag/6.41.0), 2 weeks ago) - PHP library for TransIP Rest API
+- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.41.0](https://github.com/transip/transip-api-php/releases/tag/6.41.0), 3 weeks ago) - PHP library for TransIP Rest API
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([symfony-app-0.4.0](https://github.com/xvilo/helm-charts/releases/tag/symfony-app-0.4.0), 3 weeks ago) - Repository of helm charts
 - [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([18.0.0](https://github.com/sentry-kubernetes/charts/releases/tag/18.0.0), 1 month ago) - Easily deploy Sentry on your Kubernetes Cluster
 - [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) ([v0.5.0](https://github.com/xvilo/ovpay-api/releases/tag/v0.5.0), 1 month ago) - Unofficial API Wrapper for OVPay
