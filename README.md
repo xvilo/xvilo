@@ -36,4 +36,4 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [open-telemetry/opentelemetry-php-contrib](https://github.com/open-telemetry/opentelemetry-php-contrib) ([1.0.0beta2](https://github.com/open-telemetry/opentelemetry-php-contrib/releases/tag/1.0.0beta2), 4 months ago) - opentelemetry-php-contrib
 - [xvilo/harvest-forecast](https://github.com/xvilo/harvest-forecast) ([v1.1.2](https://github.com/xvilo/harvest-forecast/releases/tag/v1.1.2), 6 months ago) - Harvest Forecast API client
 - [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) ([1.0.0beta1](https://github.com/open-telemetry/opentelemetry-php/releases/tag/1.0.0beta1), 7 months ago) - The OpenTelemetry PHP Library
-- [xvilo/crt-sh-api](https://github.com/xvilo/crt-sh-api) ([v0.1.0](https://github.com/xvilo/crt-sh-api/releases/tag/v0.1.0), 9 months ago) - crt.sh PHP API client, search through Certificate Transparency logs
+- [xvilo/crt-sh-api](https://github.com/xvilo/crt-sh-api) ([v0.1.0](https://github.com/xvilo/crt-sh-api/releases/tag/v0.1.0), 10 months ago) - crt.sh PHP API client, search through Certificate Transparency logs
