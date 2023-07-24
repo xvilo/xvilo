@@ -27,8 +27,8 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([20.0.0](https://github.com/sentry-kubernetes/charts/releases/tag/20.0.0), 4 days ago) - Easily deploy Sentry on your Kubernetes Cluster
-- [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta13](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta13), 3 weeks ago) - [READONLY] Symfony auto-instrumentation
+- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([20.0.0](https://github.com/sentry-kubernetes/charts/releases/tag/20.0.0), 5 days ago) - Easily deploy Sentry on your Kubernetes Cluster
+- [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta13](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta13), 4 weeks ago) - [READONLY] Symfony auto-instrumentation
 - [teamdotblue/helm](https://github.com/teamdotblue/helm) ([repman-0.3.0](https://github.com/teamdotblue/helm/releases/tag/repman-0.3.0), 1 month ago) - Repository that contains helm charts published by team.blue. The code is provided as-is with no warranties.
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([symfony-app-0.4.0](https://github.com/xvilo/helm-charts/releases/tag/symfony-app-0.4.0), 2 months ago) - Repository of helm charts
 - [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) ([v0.5.0](https://github.com/xvilo/ovpay-api/releases/tag/v0.5.0), 3 months ago) - Unofficial API Wrapper for OVPay
