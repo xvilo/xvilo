@@ -18,7 +18,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) - [READONLY] Symfony auto-instrumentation (3 months ago)
 - [open-telemetry/opentelemetry-php-contrib](https://github.com/open-telemetry/opentelemetry-php-contrib) - opentelemetry-php-contrib (3 months ago)
 - [teamdotblue/helm](https://github.com/teamdotblue/helm) - Repository that contains helm charts published by team.blue. The code is provided as-is with no warranties. (3 months ago)
-- [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) - The OpenTelemetry PHP Library (5 months ago)
+- [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) - The OpenTelemetry PHP Library (6 months ago)
 - [Plovr/Plovr-Docker](https://github.com/Plovr/Plovr-Docker) - Docker container to test/build Plovr Build (6 months ago)
 - [kalmargabor/crawler-check](https://github.com/kalmargabor/crawler-check) - Verify Googlebot (or others) by their IP addresses (6 months ago)
 - [xvilo/harvest-forecast](https://github.com/xvilo/harvest-forecast) - Harvest Forecast API client (8 months ago)
@@ -27,7 +27,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) ([has-been-moved](https://github.com/open-telemetry/opentelemetry-php/releases/tag/has-been-moved), 2 weeks ago) - The OpenTelemetry PHP Library
+- [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) ([has-been-moved](https://github.com/open-telemetry/opentelemetry-php/releases/tag/has-been-moved), 3 weeks ago) - The OpenTelemetry PHP Library
 - [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta14](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta14), 3 weeks ago) - [READONLY] Symfony auto-instrumentation
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([symfony-app-0.4.2](https://github.com/xvilo/helm-charts/releases/tag/symfony-app-0.4.2), 1 month ago) - Repository of helm charts
 - [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([20.0.0](https://github.com/sentry-kubernetes/charts/releases/tag/20.0.0), 2 months ago) - Easily deploy Sentry on your Kubernetes Cluster
