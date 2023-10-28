@@ -18,7 +18,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) - [READONLY] Symfony auto-instrumentation (4 months ago)
 - [open-telemetry/opentelemetry-php-contrib](https://github.com/open-telemetry/opentelemetry-php-contrib) - opentelemetry-php-contrib (4 months ago)
 - [teamdotblue/helm](https://github.com/teamdotblue/helm) - Repository that contains helm charts published by team.blue. The code is provided as-is with no warranties. (4 months ago)
-- [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) - The OpenTelemetry PHP Library (6 months ago)
+- [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) - The OpenTelemetry PHP Library (7 months ago)
 - [Plovr/Plovr-Docker](https://github.com/Plovr/Plovr-Docker) - Docker container to test/build Plovr Build (7 months ago)
 - [kalmargabor/crawler-check](https://github.com/kalmargabor/crawler-check) - Verify Googlebot (or others) by their IP addresses (7 months ago)
 - [xvilo/harvest-forecast](https://github.com/xvilo/harvest-forecast) - Harvest Forecast API client (9 months ago)
