@@ -12,6 +12,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### What I've been working on
 
+- [laminas/laminas-mime](https://github.com/laminas/laminas-mime) - Create and parse MIME messages and parts (today)
 - [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) - Unofficial API Wrapper for OVPay (2 months ago)
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (2 months ago)
 - [xvilo/groet-generator](https://github.com/xvilo/groet-generator) - groet-generator (4 months ago)
@@ -21,12 +22,12 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) - The OpenTelemetry PHP Library (7 months ago)
 - [Plovr/Plovr-Docker](https://github.com/Plovr/Plovr-Docker) - Docker container to test/build Plovr Build (7 months ago)
 - [kalmargabor/crawler-check](https://github.com/kalmargabor/crawler-check) - Verify Googlebot (or others) by their IP addresses (7 months ago)
-- [xvilo/harvest-forecast](https://github.com/xvilo/harvest-forecast) - Harvest Forecast API client (9 months ago)
 
 ---
 
 #### My latest contributions
 
+- [laminas/laminas-mime](https://github.com/laminas/laminas-mime) ([2.12.0](https://github.com/laminas/laminas-mime/releases/tag/2.12.0), today) - Create and parse MIME messages and parts
 - [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta16](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta16), 2 weeks ago) - [READONLY] Symfony auto-instrumentation
 - [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) ([has-been-moved](https://github.com/open-telemetry/opentelemetry-php/releases/tag/has-been-moved), 1 month ago) - The OpenTelemetry PHP Library
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([symfony-app-0.4.2](https://github.com/xvilo/helm-charts/releases/tag/symfony-app-0.4.2), 2 months ago) - Repository of helm charts
@@ -36,4 +37,3 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [kalmargabor/crawler-check](https://github.com/kalmargabor/crawler-check) ([1.0.2](https://github.com/kalmargabor/crawler-check/releases/tag/1.0.2), 7 months ago) - Verify Googlebot (or others) by their IP addresses
 - [open-telemetry/opentelemetry-php-contrib](https://github.com/open-telemetry/opentelemetry-php-contrib) ([1.0.0beta2](https://github.com/open-telemetry/opentelemetry-php-contrib/releases/tag/1.0.0beta2), 8 months ago) - opentelemetry-php-contrib
 - [xvilo/harvest-forecast](https://github.com/xvilo/harvest-forecast) ([v1.1.2](https://github.com/xvilo/harvest-forecast/releases/tag/v1.1.2), 9 months ago) - Harvest Forecast API client
-- [Plovr/Plovr-Docker](https://github.com/Plovr/Plovr-Docker) ([v1.1](https://github.com/Plovr/Plovr-Docker/releases/tag/v1.1), 4 years ago) - Docker container to test/build Plovr Build
