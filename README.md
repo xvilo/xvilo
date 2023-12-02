@@ -13,7 +13,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 #### What I've been working on
 
 - [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster (1 week ago)
-- [laminas/laminas-mime](https://github.com/laminas/laminas-mime) - Create and parse MIME messages and parts (4 weeks ago)
+- [laminas/laminas-mime](https://github.com/laminas/laminas-mime) - Create and parse MIME messages and parts (1 month ago)
 - [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) - Unofficial API Wrapper for OVPay (3 months ago)
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (3 months ago)
 - [xvilo/groet-generator](https://github.com/xvilo/groet-generator) - groet-generator (5 months ago)
@@ -27,8 +27,8 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta20](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta20), 3 days ago) - [READONLY] Symfony auto-instrumentation
-- [laminas/laminas-mime](https://github.com/laminas/laminas-mime) ([2.12.0](https://github.com/laminas/laminas-mime/releases/tag/2.12.0), 4 weeks ago) - Create and parse MIME messages and parts
+- [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta20](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta20), 4 days ago) - [READONLY] Symfony auto-instrumentation
+- [laminas/laminas-mime](https://github.com/laminas/laminas-mime) ([2.12.0](https://github.com/laminas/laminas-mime/releases/tag/2.12.0), 1 month ago) - Create and parse MIME messages and parts
 - [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) ([has-been-moved](https://github.com/open-telemetry/opentelemetry-php/releases/tag/has-been-moved), 2 months ago) - The OpenTelemetry PHP Library
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([symfony-app-0.4.2](https://github.com/xvilo/helm-charts/releases/tag/symfony-app-0.4.2), 3 months ago) - Repository of helm charts
 - [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([20.0.0](https://github.com/sentry-kubernetes/charts/releases/tag/20.0.0), 4 months ago) - Easily deploy Sentry on your Kubernetes Cluster
