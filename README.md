@@ -12,7 +12,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### What I've been working on
 
-- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster (1 week ago)
+- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster (2 weeks ago)
 - [laminas/laminas-mime](https://github.com/laminas/laminas-mime) - Create and parse MIME messages and parts (1 month ago)
 - [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) - Unofficial API Wrapper for OVPay (3 months ago)
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (3 months ago)
@@ -27,7 +27,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta20](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta20), 5 days ago) - [READONLY] Symfony auto-instrumentation
+- [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta20](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta20), 6 days ago) - [READONLY] Symfony auto-instrumentation
 - [laminas/laminas-mime](https://github.com/laminas/laminas-mime) ([2.12.0](https://github.com/laminas/laminas-mime/releases/tag/2.12.0), 1 month ago) - Create and parse MIME messages and parts
 - [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) ([has-been-moved](https://github.com/open-telemetry/opentelemetry-php/releases/tag/has-been-moved), 2 months ago) - The OpenTelemetry PHP Library
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([symfony-app-0.4.2](https://github.com/xvilo/helm-charts/releases/tag/symfony-app-0.4.2), 3 months ago) - Repository of helm charts
@@ -36,4 +36,4 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) ([v0.5.0](https://github.com/xvilo/ovpay-api/releases/tag/v0.5.0), 7 months ago) - Unofficial API Wrapper for OVPay
 - [kalmargabor/crawler-check](https://github.com/kalmargabor/crawler-check) ([1.0.2](https://github.com/kalmargabor/crawler-check/releases/tag/1.0.2), 8 months ago) - Verify Googlebot (or others) by their IP addresses
 - [open-telemetry/opentelemetry-php-contrib](https://github.com/open-telemetry/opentelemetry-php-contrib) ([1.0.0beta2](https://github.com/open-telemetry/opentelemetry-php-contrib/releases/tag/1.0.0beta2), 9 months ago) - opentelemetry-php-contrib
-- [xvilo/harvest-forecast](https://github.com/xvilo/harvest-forecast) ([v1.1.2](https://github.com/xvilo/harvest-forecast/releases/tag/v1.1.2), 10 months ago) - Harvest Forecast API client
+- [xvilo/harvest-forecast](https://github.com/xvilo/harvest-forecast) ([v1.1.2](https://github.com/xvilo/harvest-forecast/releases/tag/v1.1.2), 11 months ago) - Harvest Forecast API client
