@@ -29,7 +29,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 - [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta20](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta20), 1 week ago) - [READONLY] Symfony auto-instrumentation
 - [laminas/laminas-mime](https://github.com/laminas/laminas-mime) ([2.12.0](https://github.com/laminas/laminas-mime/releases/tag/2.12.0), 1 month ago) - Create and parse MIME messages and parts
-- [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) ([has-been-moved](https://github.com/open-telemetry/opentelemetry-php/releases/tag/has-been-moved), 2 months ago) - The OpenTelemetry PHP Library
+- [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) ([has-been-moved](https://github.com/open-telemetry/opentelemetry-php/releases/tag/has-been-moved), 3 months ago) - The OpenTelemetry PHP Library
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([symfony-app-0.4.2](https://github.com/xvilo/helm-charts/releases/tag/symfony-app-0.4.2), 3 months ago) - Repository of helm charts
 - [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([20.0.0](https://github.com/sentry-kubernetes/charts/releases/tag/20.0.0), 4 months ago) - Easily deploy Sentry on your Kubernetes Cluster
 - [teamdotblue/helm](https://github.com/teamdotblue/helm) ([repman-0.3.0](https://github.com/teamdotblue/helm/releases/tag/repman-0.3.0), 6 months ago) - Repository that contains helm charts published by team.blue. The code is provided as-is with no warranties.
