@@ -12,7 +12,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### What I've been working on
 
-- [open-telemetry/opentelemetry-php-contrib](https://github.com/open-telemetry/opentelemetry-php-contrib) - opentelemetry-php-contrib (1 day ago)
+- [open-telemetry/opentelemetry-php-contrib](https://github.com/open-telemetry/opentelemetry-php-contrib) - opentelemetry-php-contrib (today)
 - [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) - [READONLY] Symfony auto-instrumentation (1 day ago)
 - [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster (3 weeks ago)
 - [laminas/laminas-mime](https://github.com/laminas/laminas-mime) - Create and parse MIME messages and parts (1 month ago)
