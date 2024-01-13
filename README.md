@@ -12,8 +12,8 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### What I've been working on
 
-- [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) - Unofficial API Wrapper for OVPay (2 days ago)
-- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster (6 days ago)
+- [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) - Unofficial API Wrapper for OVPay (3 days ago)
+- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster (1 week ago)
 - [repman-io/repman](https://github.com/repman-io/repman) - Repman - PHP Repository Manager: packagist proxy and host for private packages  (3 weeks ago)
 - [open-telemetry/opentelemetry-php-contrib](https://github.com/open-telemetry/opentelemetry-php-contrib) - opentelemetry-php-contrib (1 month ago)
 - [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) - [READONLY] Symfony auto-instrumentation (1 month ago)
@@ -27,7 +27,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) ([v0.6.0](https://github.com/xvilo/ovpay-api/releases/tag/v0.6.0), 2 days ago) - Unofficial API Wrapper for OVPay
+- [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) ([v0.6.0](https://github.com/xvilo/ovpay-api/releases/tag/v0.6.0), 3 days ago) - Unofficial API Wrapper for OVPay
 - [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta21](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta21), 1 month ago) - [READONLY] Symfony auto-instrumentation
 - [laminas/laminas-mime](https://github.com/laminas/laminas-mime) ([2.12.0](https://github.com/laminas/laminas-mime/releases/tag/2.12.0), 2 months ago) - Create and parse MIME messages and parts
 - [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) ([has-been-moved](https://github.com/open-telemetry/opentelemetry-php/releases/tag/has-been-moved), 4 months ago) - The OpenTelemetry PHP Library
