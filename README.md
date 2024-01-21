@@ -12,8 +12,8 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### What I've been working on
 
-- [transip/transip-api-symfony](https://github.com/transip/transip-api-symfony) - This bundle provides an instance of TransipAPI to Symfony&#39;s Container. (5 days ago)
-- [transip/transip-api-php](https://github.com/transip/transip-api-php) - PHP library for TransIP Rest API (5 days ago)
+- [transip/transip-api-symfony](https://github.com/transip/transip-api-symfony) - This bundle provides an instance of TransipAPI to Symfony&#39;s Container. (6 days ago)
+- [transip/transip-api-php](https://github.com/transip/transip-api-php) - PHP library for TransIP Rest API (6 days ago)
 - [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) - Unofficial API Wrapper for OVPay (1 week ago)
 - [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster (2 weeks ago)
 - [repman-io/repman](https://github.com/repman-io/repman) - Repman - PHP Repository Manager: packagist proxy and host for private packages  (1 month ago)
@@ -27,8 +27,8 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [transip/transip-api-symfony](https://github.com/transip/transip-api-symfony) ([v1.1.1](https://github.com/transip/transip-api-symfony/releases/tag/v1.1.1), 5 days ago) - This bundle provides an instance of TransipAPI to Symfony&#39;s Container.
-- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.49.4](https://github.com/transip/transip-api-php/releases/tag/6.49.4), 5 days ago) - PHP library for TransIP Rest API
+- [transip/transip-api-symfony](https://github.com/transip/transip-api-symfony) ([v1.1.1](https://github.com/transip/transip-api-symfony/releases/tag/v1.1.1), 6 days ago) - This bundle provides an instance of TransipAPI to Symfony&#39;s Container.
+- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.49.4](https://github.com/transip/transip-api-php/releases/tag/6.49.4), 6 days ago) - PHP library for TransIP Rest API
 - [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) ([v0.6.0](https://github.com/xvilo/ovpay-api/releases/tag/v0.6.0), 1 week ago) - Unofficial API Wrapper for OVPay
 - [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta21](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta21), 1 month ago) - [READONLY] Symfony auto-instrumentation
 - [laminas/laminas-mime](https://github.com/laminas/laminas-mime) ([2.12.0](https://github.com/laminas/laminas-mime/releases/tag/2.12.0), 2 months ago) - Create and parse MIME messages and parts
