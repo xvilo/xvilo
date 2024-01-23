@@ -27,10 +27,10 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
+- [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta22](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta22), today) - [READONLY] Symfony auto-instrumentation
 - [transip/transip-api-symfony](https://github.com/transip/transip-api-symfony) ([v1.1.1](https://github.com/transip/transip-api-symfony/releases/tag/v1.1.1), 1 week ago) - This bundle provides an instance of TransipAPI to Symfony&#39;s Container.
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.49.4](https://github.com/transip/transip-api-php/releases/tag/6.49.4), 1 week ago) - PHP library for TransIP Rest API
 - [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) ([v0.6.0](https://github.com/xvilo/ovpay-api/releases/tag/v0.6.0), 1 week ago) - Unofficial API Wrapper for OVPay
-- [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta21](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta21), 1 month ago) - [READONLY] Symfony auto-instrumentation
 - [laminas/laminas-mime](https://github.com/laminas/laminas-mime) ([2.12.0](https://github.com/laminas/laminas-mime/releases/tag/2.12.0), 2 months ago) - Create and parse MIME messages and parts
 - [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) ([has-been-moved](https://github.com/open-telemetry/opentelemetry-php/releases/tag/has-been-moved), 4 months ago) - The OpenTelemetry PHP Library
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([symfony-app-0.4.2](https://github.com/xvilo/helm-charts/releases/tag/symfony-app-0.4.2), 5 months ago) - Repository of helm charts
