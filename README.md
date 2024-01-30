@@ -27,7 +27,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta22](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta22), 6 days ago) - [READONLY] Symfony auto-instrumentation
+- [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta22](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta22), 1 week ago) - [READONLY] Symfony auto-instrumentation
 - [transip/transip-api-symfony](https://github.com/transip/transip-api-symfony) ([v1.1.1](https://github.com/transip/transip-api-symfony/releases/tag/v1.1.1), 2 weeks ago) - This bundle provides an instance of TransipAPI to Symfony&#39;s Container.
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.49.4](https://github.com/transip/transip-api-php/releases/tag/6.49.4), 2 weeks ago) - PHP library for TransIP Rest API
 - [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) ([v0.6.0](https://github.com/xvilo/ovpay-api/releases/tag/v0.6.0), 2 weeks ago) - Unofficial API Wrapper for OVPay
