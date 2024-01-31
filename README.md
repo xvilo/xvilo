@@ -14,12 +14,12 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 - [transip/transip-api-symfony](https://github.com/transip/transip-api-symfony) - This bundle provides an instance of TransipAPI to Symfony&#39;s Container. (2 weeks ago)
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) - PHP library for TransIP Rest API (2 weeks ago)
-- [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) - Unofficial API Wrapper for OVPay (2 weeks ago)
+- [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) - Unofficial API Wrapper for OVPay (3 weeks ago)
 - [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster (3 weeks ago)
 - [repman-io/repman](https://github.com/repman-io/repman) - Repman - PHP Repository Manager: packagist proxy and host for private packages  (1 month ago)
 - [open-telemetry/opentelemetry-php-contrib](https://github.com/open-telemetry/opentelemetry-php-contrib) - opentelemetry-php-contrib (1 month ago)
 - [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) - [READONLY] Symfony auto-instrumentation (1 month ago)
-- [laminas/laminas-mime](https://github.com/laminas/laminas-mime) - Create and parse MIME messages and parts (2 months ago)
+- [laminas/laminas-mime](https://github.com/laminas/laminas-mime) - Create and parse MIME messages and parts (3 months ago)
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (5 months ago)
 - [xvilo/groet-generator](https://github.com/xvilo/groet-generator) - groet-generator (7 months ago)
 
@@ -30,8 +30,8 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta22](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta22), 1 week ago) - [READONLY] Symfony auto-instrumentation
 - [transip/transip-api-symfony](https://github.com/transip/transip-api-symfony) ([v1.1.1](https://github.com/transip/transip-api-symfony/releases/tag/v1.1.1), 2 weeks ago) - This bundle provides an instance of TransipAPI to Symfony&#39;s Container.
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.49.4](https://github.com/transip/transip-api-php/releases/tag/6.49.4), 2 weeks ago) - PHP library for TransIP Rest API
-- [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) ([v0.6.0](https://github.com/xvilo/ovpay-api/releases/tag/v0.6.0), 2 weeks ago) - Unofficial API Wrapper for OVPay
-- [laminas/laminas-mime](https://github.com/laminas/laminas-mime) ([2.12.0](https://github.com/laminas/laminas-mime/releases/tag/2.12.0), 2 months ago) - Create and parse MIME messages and parts
+- [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) ([v0.6.0](https://github.com/xvilo/ovpay-api/releases/tag/v0.6.0), 3 weeks ago) - Unofficial API Wrapper for OVPay
+- [laminas/laminas-mime](https://github.com/laminas/laminas-mime) ([2.12.0](https://github.com/laminas/laminas-mime/releases/tag/2.12.0), 3 months ago) - Create and parse MIME messages and parts
 - [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) ([has-been-moved](https://github.com/open-telemetry/opentelemetry-php/releases/tag/has-been-moved), 4 months ago) - The OpenTelemetry PHP Library
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([symfony-app-0.4.2](https://github.com/xvilo/helm-charts/releases/tag/symfony-app-0.4.2), 5 months ago) - Repository of helm charts
 - [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([20.0.0](https://github.com/sentry-kubernetes/charts/releases/tag/20.0.0), 6 months ago) - Easily deploy Sentry on your Kubernetes Cluster
