@@ -27,6 +27,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
+- [open-telemetry/opentelemetry-php-contrib](https://github.com/open-telemetry/opentelemetry-php-contrib) ([releases-moved](https://github.com/open-telemetry/opentelemetry-php-contrib/releases/tag/releases-moved), today) - opentelemetry-php-contrib
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.49.5](https://github.com/transip/transip-api-php/releases/tag/6.49.5), 4 days ago) - PHP library for TransIP Rest API
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([symfony-app-0.5.1](https://github.com/xvilo/helm-charts/releases/tag/symfony-app-0.5.1), 6 days ago) - Repository of helm charts
 - [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta22](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta22), 2 weeks ago) - [READONLY] Symfony auto-instrumentation
@@ -36,4 +37,3 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) ([has-been-moved](https://github.com/open-telemetry/opentelemetry-php/releases/tag/has-been-moved), 5 months ago) - The OpenTelemetry PHP Library
 - [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([20.0.0](https://github.com/sentry-kubernetes/charts/releases/tag/20.0.0), 6 months ago) - Easily deploy Sentry on your Kubernetes Cluster
 - [teamdotblue/helm](https://github.com/teamdotblue/helm) ([repman-0.3.0](https://github.com/teamdotblue/helm/releases/tag/repman-0.3.0), 8 months ago) - Repository that contains helm charts published by team.blue. The code is provided as-is with no warranties.
-- [kalmargabor/crawler-check](https://github.com/kalmargabor/crawler-check) ([1.0.2](https://github.com/kalmargabor/crawler-check/releases/tag/1.0.2), 10 months ago) - Verify Googlebot (or others) by their IP addresses
