@@ -19,7 +19,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster (1 month ago)
 - [repman-io/repman](https://github.com/repman-io/repman) - Repman - PHP Repository Manager: packagist proxy and host for private packages  (1 month ago)
 - [open-telemetry/opentelemetry-php-contrib](https://github.com/open-telemetry/opentelemetry-php-contrib) - opentelemetry-php-contrib (1 month ago)
-- [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) - [READONLY] Symfony auto-instrumentation (1 month ago)
+- [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) - [READONLY] Symfony auto-instrumentation (2 months ago)
 - [laminas/laminas-mime](https://github.com/laminas/laminas-mime) - Create and parse MIME messages and parts (3 months ago)
 - [xvilo/groet-generator](https://github.com/xvilo/groet-generator) - groet-generator (7 months ago)
 
@@ -27,7 +27,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [open-telemetry/opentelemetry-php-contrib](https://github.com/open-telemetry/opentelemetry-php-contrib) ([releases-moved](https://github.com/open-telemetry/opentelemetry-php-contrib/releases/tag/releases-moved), 3 days ago) - opentelemetry-php-contrib
+- [open-telemetry/opentelemetry-php-contrib](https://github.com/open-telemetry/opentelemetry-php-contrib) ([releases-moved](https://github.com/open-telemetry/opentelemetry-php-contrib/releases/tag/releases-moved), 4 days ago) - opentelemetry-php-contrib
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.49.5](https://github.com/transip/transip-api-php/releases/tag/6.49.5), 1 week ago) - PHP library for TransIP Rest API
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([symfony-app-0.5.1](https://github.com/xvilo/helm-charts/releases/tag/symfony-app-0.5.1), 1 week ago) - Repository of helm charts
 - [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta22](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta22), 2 weeks ago) - [READONLY] Symfony auto-instrumentation
