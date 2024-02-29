@@ -27,8 +27,8 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
+- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.49.7](https://github.com/transip/transip-api-php/releases/tag/6.49.7), today) - PHP library for TransIP Rest API
 - [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta23](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta23), 1 day ago) - [READONLY] Symfony auto-instrumentation
-- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.49.6](https://github.com/transip/transip-api-php/releases/tag/6.49.6), 2 days ago) - PHP library for TransIP Rest API
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.4](https://github.com/symfony/symfony/releases/tag/v7.0.4), 2 days ago) - The Symfony PHP framework
 - [xvilo/gofile-php-api](https://github.com/xvilo/gofile-php-api) ([v0.1.0](https://github.com/xvilo/gofile-php-api/releases/tag/v0.1.0), 5 days ago) - GoFile API Client in PHP
 - [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) ([v0.6.2](https://github.com/xvilo/ovpay-api/releases/tag/v0.6.2), 5 days ago) - Unofficial API Wrapper for OVPay
