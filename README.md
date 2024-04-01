@@ -36,4 +36,4 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([symfony-app-0.5.1](https://github.com/xvilo/helm-charts/releases/tag/symfony-app-0.5.1), 2 months ago) - Repository of helm charts
 - [transip/transip-api-symfony](https://github.com/transip/transip-api-symfony) ([v1.1.1](https://github.com/transip/transip-api-symfony/releases/tag/v1.1.1), 2 months ago) - This bundle provides an instance of TransipAPI to Symfony&#39;s Container.
 - [laminas/laminas-mime](https://github.com/laminas/laminas-mime) ([2.12.0](https://github.com/laminas/laminas-mime/releases/tag/2.12.0), 5 months ago) - Create and parse MIME messages and parts
-- [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) ([has-been-moved](https://github.com/open-telemetry/opentelemetry-php/releases/tag/has-been-moved), 6 months ago) - The OpenTelemetry PHP Library
+- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([20.0.0](https://github.com/sentry-kubernetes/charts/releases/tag/20.0.0), 8 months ago) - Easily deploy Sentry on your Kubernetes Cluster
