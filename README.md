@@ -27,6 +27,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
+- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([sentry-kubernetes-v1.0.0](https://github.com/sentry-kubernetes/charts/releases/tag/sentry-kubernetes-v1.0.0), today) - Easily deploy Sentry on your Kubernetes Cluster
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.6](https://github.com/symfony/symfony/releases/tag/v7.0.6), 1 week ago) - The Symfony PHP framework
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.50.0](https://github.com/transip/transip-api-php/releases/tag/6.50.0), 3 weeks ago) - PHP library for TransIP Rest API
 - [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta23](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta23), 1 month ago) - [READONLY] Symfony auto-instrumentation
@@ -36,4 +37,3 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([symfony-app-0.5.1](https://github.com/xvilo/helm-charts/releases/tag/symfony-app-0.5.1), 2 months ago) - Repository of helm charts
 - [transip/transip-api-symfony](https://github.com/transip/transip-api-symfony) ([v1.1.1](https://github.com/transip/transip-api-symfony/releases/tag/v1.1.1), 2 months ago) - This bundle provides an instance of TransipAPI to Symfony&#39;s Container.
 - [laminas/laminas-mime](https://github.com/laminas/laminas-mime) ([2.12.0](https://github.com/laminas/laminas-mime/releases/tag/2.12.0), 5 months ago) - Create and parse MIME messages and parts
-- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([20.0.0](https://github.com/sentry-kubernetes/charts/releases/tag/20.0.0), 8 months ago) - Easily deploy Sentry on your Kubernetes Cluster
