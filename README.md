@@ -27,8 +27,8 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([sentry-v22.1.1](https://github.com/sentry-kubernetes/charts/releases/tag/sentry-v22.1.1), 1 day ago) - Easily deploy Sentry on your Kubernetes Cluster
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.6](https://github.com/symfony/symfony/releases/tag/v7.0.6), 1 week ago) - The Symfony PHP framework
+- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([sentry-v22.1.1](https://github.com/sentry-kubernetes/charts/releases/tag/sentry-v22.1.1), 2 days ago) - Easily deploy Sentry on your Kubernetes Cluster
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.6](https://github.com/symfony/symfony/releases/tag/v7.0.6), 2 weeks ago) - The Symfony PHP framework
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.50.0](https://github.com/transip/transip-api-php/releases/tag/6.50.0), 4 weeks ago) - PHP library for TransIP Rest API
 - [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta23](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta23), 1 month ago) - [READONLY] Symfony auto-instrumentation
 - [xvilo/gofile-php-api](https://github.com/xvilo/gofile-php-api) ([v0.1.0](https://github.com/xvilo/gofile-php-api/releases/tag/v0.1.0), 1 month ago) - GoFile API Client in PHP
