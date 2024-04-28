@@ -12,8 +12,8 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### What I've been working on
 
+- [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) - Unofficial API Wrapper for OVPay (today)
 - [transip/homebrew-transip](https://github.com/transip/homebrew-transip) - TransIP Homebrew Tap (2 weeks ago)
-- [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) - Unofficial API Wrapper for OVPay (2 months ago)
 - [xvilo/gofile-php-api](https://github.com/xvilo/gofile-php-api) - GoFile API Client in PHP (2 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 months ago)
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (2 months ago)
