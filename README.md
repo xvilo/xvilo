@@ -27,7 +27,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.39](https://github.com/symfony/symfony/releases/tag/v5.4.39), today) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.7](https://github.com/symfony/symfony/releases/tag/v7.0.7), today) - The Symfony PHP framework
 - [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([sentry-v22.2.1](https://github.com/sentry-kubernetes/charts/releases/tag/sentry-v22.2.1), 5 days ago) - Easily deploy Sentry on your Kubernetes Cluster
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.50.0](https://github.com/transip/transip-api-php/releases/tag/6.50.0), 1 month ago) - PHP library for TransIP Rest API
 - [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta23](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta23), 2 months ago) - [READONLY] Symfony auto-instrumentation
