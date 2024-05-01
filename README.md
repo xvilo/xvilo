@@ -12,7 +12,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### What I've been working on
 
-- [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) - Unofficial API Wrapper for OVPay (2 days ago)
+- [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) - Unofficial API Wrapper for OVPay (3 days ago)
 - [transip/homebrew-transip](https://github.com/transip/homebrew-transip) - TransIP Homebrew Tap (3 weeks ago)
 - [xvilo/gofile-php-api](https://github.com/xvilo/gofile-php-api) - GoFile API Client in PHP (2 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 months ago)
@@ -27,8 +27,8 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([sentry-v22.3.0](https://github.com/sentry-kubernetes/charts/releases/tag/sentry-v22.3.0), 1 day ago) - Easily deploy Sentry on your Kubernetes Cluster
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.7](https://github.com/symfony/symfony/releases/tag/v7.0.7), 1 day ago) - The Symfony PHP framework
+- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([sentry-v22.3.0](https://github.com/sentry-kubernetes/charts/releases/tag/sentry-v22.3.0), 2 days ago) - Easily deploy Sentry on your Kubernetes Cluster
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.7](https://github.com/symfony/symfony/releases/tag/v7.0.7), 2 days ago) - The Symfony PHP framework
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.50.0](https://github.com/transip/transip-api-php/releases/tag/6.50.0), 1 month ago) - PHP library for TransIP Rest API
 - [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta23](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta23), 2 months ago) - [READONLY] Symfony auto-instrumentation
 - [xvilo/gofile-php-api](https://github.com/xvilo/gofile-php-api) ([v0.1.0](https://github.com/xvilo/gofile-php-api/releases/tag/v0.1.0), 2 months ago) - GoFile API Client in PHP
