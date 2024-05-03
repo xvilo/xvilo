@@ -27,10 +27,10 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
+- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.50.1](https://github.com/transip/transip-api-php/releases/tag/6.50.1), today) - PHP library for TransIP Rest API
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.1.0-BETA1), 1 day ago) - The Symfony PHP framework
 - [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta24](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta24), 2 days ago) - [READONLY] Symfony auto-instrumentation
 - [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([sentry-v22.3.0](https://github.com/sentry-kubernetes/charts/releases/tag/sentry-v22.3.0), 4 days ago) - Easily deploy Sentry on your Kubernetes Cluster
-- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.50.0](https://github.com/transip/transip-api-php/releases/tag/6.50.0), 1 month ago) - PHP library for TransIP Rest API
 - [xvilo/gofile-php-api](https://github.com/xvilo/gofile-php-api) ([v0.1.0](https://github.com/xvilo/gofile-php-api/releases/tag/v0.1.0), 2 months ago) - GoFile API Client in PHP
 - [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) ([v0.6.2](https://github.com/xvilo/ovpay-api/releases/tag/v0.6.2), 2 months ago) - Unofficial API Wrapper for OVPay
 - [open-telemetry/opentelemetry-php-contrib](https://github.com/open-telemetry/opentelemetry-php-contrib) ([releases-moved](https://github.com/open-telemetry/opentelemetry-php-contrib/releases/tag/releases-moved), 2 months ago) - opentelemetry-php-contrib
