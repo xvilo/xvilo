@@ -12,6 +12,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### What I've been working on
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (1 week ago)
 - [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) - Unofficial API Wrapper for OVPay (1 month ago)
 - [transip/homebrew-transip](https://github.com/transip/homebrew-transip) - TransIP Homebrew Tap (1 month ago)
@@ -21,12 +22,12 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [transip/transip-api-symfony](https://github.com/transip/transip-api-symfony) - This bundle provides an instance of TransipAPI to Symfony&#39;s Container. (4 months ago)
 - [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster (4 months ago)
 - [repman-io/repman](https://github.com/repman-io/repman) - Repman - PHP Repository Manager: packagist proxy and host for private packages  (5 months ago)
-- [open-telemetry/opentelemetry-php-contrib](https://github.com/open-telemetry/opentelemetry-php-contrib) - opentelemetry-php-contrib (5 months ago)
 
 ---
 
 #### My latest contributions
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.0.0](https://github.com/grafana/helm-charts/releases/tag/grafana-8.0.0), today) - 
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.8](https://github.com/symfony/symfony/releases/tag/v7.0.8), 1 day ago) - The Symfony PHP framework
 - [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta25](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta25), 1 week ago) - [READONLY] Symfony auto-instrumentation
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([isponsorblocktv-0.1.0](https://github.com/xvilo/helm-charts/releases/tag/isponsorblocktv-0.1.0), 1 week ago) - Repository of helm charts
@@ -36,4 +37,3 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) ([v0.6.2](https://github.com/xvilo/ovpay-api/releases/tag/v0.6.2), 3 months ago) - Unofficial API Wrapper for OVPay
 - [open-telemetry/opentelemetry-php-contrib](https://github.com/open-telemetry/opentelemetry-php-contrib) ([releases-moved](https://github.com/open-telemetry/opentelemetry-php-contrib/releases/tag/releases-moved), 3 months ago) - opentelemetry-php-contrib
 - [transip/transip-api-symfony](https://github.com/transip/transip-api-symfony) ([v1.1.1](https://github.com/transip/transip-api-symfony/releases/tag/v1.1.1), 4 months ago) - This bundle provides an instance of TransipAPI to Symfony&#39;s Container.
-- [laminas/laminas-mime](https://github.com/laminas/laminas-mime) ([2.12.0](https://github.com/laminas/laminas-mime/releases/tag/2.12.0), 7 months ago) - Create and parse MIME messages and parts
