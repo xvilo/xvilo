@@ -27,11 +27,11 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
+- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([sentry-v23.2.0](https://github.com/sentry-kubernetes/charts/releases/tag/sentry-v23.2.0), today) - Easily deploy Sentry on your Kubernetes Cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.6.0](https://github.com/grafana/helm-charts/releases/tag/oncall-1.6.0), today) - 
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.8](https://github.com/symfony/symfony/releases/tag/v7.0.8), 1 day ago) - The Symfony PHP framework
 - [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta25](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta25), 1 week ago) - [READONLY] Symfony auto-instrumentation
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([isponsorblocktv-0.1.0](https://github.com/xvilo/helm-charts/releases/tag/isponsorblocktv-0.1.0), 1 week ago) - Repository of helm charts
-- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([sentry-v23.1.0](https://github.com/sentry-kubernetes/charts/releases/tag/sentry-v23.1.0), 1 week ago) - Easily deploy Sentry on your Kubernetes Cluster
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.51.2](https://github.com/transip/transip-api-php/releases/tag/6.51.2), 1 week ago) - PHP library for TransIP Rest API
 - [xvilo/gofile-php-api](https://github.com/xvilo/gofile-php-api) ([v0.1.0](https://github.com/xvilo/gofile-php-api/releases/tag/v0.1.0), 3 months ago) - GoFile API Client in PHP
 - [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) ([v0.6.2](https://github.com/xvilo/ovpay-api/releases/tag/v0.6.2), 3 months ago) - Unofficial API Wrapper for OVPay
