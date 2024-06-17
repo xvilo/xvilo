@@ -27,7 +27,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.16.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.16.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.1.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.1.1), today) - 
 - [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([sentry-v23.9.1](https://github.com/sentry-kubernetes/charts/releases/tag/sentry-v23.9.1), today) - Easily deploy Sentry on your Kubernetes Cluster
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.51.3](https://github.com/transip/transip-api-php/releases/tag/6.51.3), 5 days ago) - PHP library for TransIP Rest API
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([isponsorblocktv-0.1.2](https://github.com/xvilo/helm-charts/releases/tag/isponsorblocktv-0.1.2), 1 week ago) - Repository of helm charts
