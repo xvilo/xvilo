@@ -12,14 +12,14 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### What I've been working on
 
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (3 weeks ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (4 weeks ago)
 - [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) - Unofficial API Wrapper for OVPay (1 month ago)
 - [transip/homebrew-transip](https://github.com/transip/homebrew-transip) - TransIP Homebrew Tap (2 months ago)
 - [xvilo/gofile-php-api](https://github.com/xvilo/gofile-php-api) - GoFile API Client in PHP (4 months ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (4 months ago)
-- [transip/transip-api-symfony](https://github.com/transip/transip-api-symfony) - This bundle provides an instance of TransipAPI to Symfony&#39;s Container. (5 months ago)
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) - PHP library for TransIP Rest API (5 months ago)
+- [transip/transip-api-symfony](https://github.com/transip/transip-api-symfony) - This bundle provides an instance of TransipAPI to Symfony&#39;s Container. (5 months ago)
 - [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster (5 months ago)
 - [repman-io/repman](https://github.com/repman-io/repman) - Repman - PHP Repository Manager: packagist proxy and host for private packages  (6 months ago)
 
