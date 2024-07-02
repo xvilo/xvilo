@@ -12,7 +12,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### What I've been working on
 
-- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (5 days ago)
+- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (6 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 weeks ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 month ago)
 - [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) - Unofficial API Wrapper for OVPay (2 months ago)
@@ -27,11 +27,11 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.2.2](https://github.com/grafana/helm-charts/releases/tag/grafana-8.2.2), today) - 
-- [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta26](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta26), 2 days ago) - [READONLY] Symfony auto-instrumentation
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.2](https://github.com/symfony/symfony/releases/tag/v7.1.2), 3 days ago) - The Symfony PHP framework
-- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([symfony-app-0.6.0](https://github.com/xvilo/helm-charts/releases/tag/symfony-app-0.6.0), 5 days ago) - Repository of helm charts
-- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.51.5](https://github.com/transip/transip-api-php/releases/tag/6.51.5), 6 days ago) - PHP library for TransIP Rest API
+- [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta27](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta27), 1 day ago) - [READONLY] Symfony auto-instrumentation
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.2.2](https://github.com/grafana/helm-charts/releases/tag/grafana-8.2.2), 1 day ago) - 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.2](https://github.com/symfony/symfony/releases/tag/v7.1.2), 4 days ago) - The Symfony PHP framework
+- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([symfony-app-0.6.0](https://github.com/xvilo/helm-charts/releases/tag/symfony-app-0.6.0), 6 days ago) - Repository of helm charts
+- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.51.5](https://github.com/transip/transip-api-php/releases/tag/6.51.5), 1 week ago) - PHP library for TransIP Rest API
 - [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([sentry-v23.11.0](https://github.com/sentry-kubernetes/charts/releases/tag/sentry-v23.11.0), 1 week ago) - Easily deploy Sentry on your Kubernetes Cluster
 - [xvilo/gofile-php-api](https://github.com/xvilo/gofile-php-api) ([v0.1.0](https://github.com/xvilo/gofile-php-api/releases/tag/v0.1.0), 4 months ago) - GoFile API Client in PHP
 - [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) ([v0.6.2](https://github.com/xvilo/ovpay-api/releases/tag/v0.6.2), 4 months ago) - Unofficial API Wrapper for OVPay
