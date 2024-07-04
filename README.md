@@ -27,7 +27,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.6.5](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.6.5), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.3.2](https://github.com/grafana/helm-charts/releases/tag/grafana-8.3.2), today) - 
 - [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta27](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta27), 3 days ago) - [READONLY] Symfony auto-instrumentation
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.2](https://github.com/symfony/symfony/releases/tag/v7.1.2), 6 days ago) - The Symfony PHP framework
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([symfony-app-0.6.0](https://github.com/xvilo/helm-charts/releases/tag/symfony-app-0.6.0), 1 week ago) - Repository of helm charts
