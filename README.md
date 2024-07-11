@@ -27,7 +27,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.8.3](https://github.com/grafana/helm-charts/releases/tag/oncall-1.8.3), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-0.5.1](https://github.com/grafana/helm-charts/releases/tag/alloy-0.5.1), today) - 
 - [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([sentry-v23.12.0](https://github.com/sentry-kubernetes/charts/releases/tag/sentry-v23.12.0), today) - Easily deploy Sentry on your Kubernetes Cluster
 - [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta27](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta27), 1 week ago) - [READONLY] Symfony auto-instrumentation
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.2](https://github.com/symfony/symfony/releases/tag/v7.1.2), 1 week ago) - The Symfony PHP framework
