@@ -27,8 +27,8 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.8.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.8.0), today) - 
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.52.1](https://github.com/transip/transip-api-php/releases/tag/6.52.1), today) - PHP library for TransIP Rest API
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.4.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.4.3), 3 days ago) - 
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.3](https://github.com/symfony/symfony/releases/tag/v7.1.3), 3 days ago) - The Symfony PHP framework
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([symfony-app-0.6.2](https://github.com/xvilo/helm-charts/releases/tag/symfony-app-0.6.2), 6 days ago) - Repository of helm charts
 - [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([sentry-v23.12.1](https://github.com/sentry-kubernetes/charts/releases/tag/sentry-v23.12.1), 1 week ago) - Easily deploy Sentry on your Kubernetes Cluster
