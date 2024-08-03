@@ -20,15 +20,15 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [xvilo/gofile-php-api](https://github.com/xvilo/gofile-php-api) - GoFile API Client in PHP (5 months ago)
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) - PHP library for TransIP Rest API (6 months ago)
 - [transip/transip-api-symfony](https://github.com/transip/transip-api-symfony) - This bundle provides an instance of TransipAPI to Symfony&#39;s Container. (6 months ago)
-- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster (6 months ago)
+- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster (7 months ago)
 - [repman-io/repman](https://github.com/repman-io/repman) - Repman - PHP Repository Manager: packagist proxy and host for private packages  (7 months ago)
 
 ---
 
 #### My latest contributions
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.4.1](https://github.com/grafana/helm-charts/releases/tag/grafana-8.4.1), today) - 
-- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.52.4](https://github.com/transip/transip-api-php/releases/tag/6.52.4), 1 day ago) - PHP library for TransIP Rest API
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.4.1](https://github.com/grafana/helm-charts/releases/tag/grafana-8.4.1), 1 day ago) - 
+- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.52.4](https://github.com/transip/transip-api-php/releases/tag/6.52.4), 2 days ago) - PHP library for TransIP Rest API
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.3](https://github.com/symfony/symfony/releases/tag/v7.1.3), 1 week ago) - The Symfony PHP framework
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([symfony-app-0.6.2](https://github.com/xvilo/helm-charts/releases/tag/symfony-app-0.6.2), 1 week ago) - Repository of helm charts
 - [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([sentry-v23.12.1](https://github.com/sentry-kubernetes/charts/releases/tag/sentry-v23.12.1), 2 weeks ago) - Easily deploy Sentry on your Kubernetes Cluster
