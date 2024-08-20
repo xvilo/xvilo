@@ -27,7 +27,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.9.4](https://github.com/grafana/helm-charts/releases/tag/oncall-1.9.4), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.9.5](https://github.com/grafana/helm-charts/releases/tag/oncall-1.9.5), today) - 
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.53.0](https://github.com/transip/transip-api-php/releases/tag/6.53.0), 1 day ago) - PHP library for TransIP Rest API
 - [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([sentry-v24.0.0](https://github.com/sentry-kubernetes/charts/releases/tag/sentry-v24.0.0), 1 day ago) - Easily deploy Sentry on your Kubernetes Cluster
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.3](https://github.com/symfony/symfony/releases/tag/v7.1.3), 3 weeks ago) - The Symfony PHP framework
