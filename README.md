@@ -18,7 +18,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 months ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 months ago)
 - [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) - Unofficial API Wrapper for OVPay (4 months ago)
-- [transip/homebrew-transip](https://github.com/transip/homebrew-transip) - TransIP Homebrew Tap (4 months ago)
+- [transip/homebrew-transip](https://github.com/transip/homebrew-transip) - TransIP Homebrew Tap (5 months ago)
 - [xvilo/gofile-php-api](https://github.com/xvilo/gofile-php-api) - GoFile API Client in PHP (6 months ago)
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) - PHP library for TransIP Rest API (7 months ago)
 - [transip/transip-api-symfony](https://github.com/transip/transip-api-symfony) - This bundle provides an instance of TransipAPI to Symfony&#39;s Container. (7 months ago)
@@ -27,9 +27,9 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.18.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.18.0), today) - 
-- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([sentry-v25.3.0](https://github.com/sentry-kubernetes/charts/releases/tag/sentry-v25.3.0), today) - Easily deploy Sentry on your Kubernetes Cluster
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.4](https://github.com/symfony/symfony/releases/tag/v7.1.4), 6 days ago) - The Symfony PHP framework
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.18.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.18.0), 1 day ago) - 
+- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([sentry-v25.3.0](https://github.com/sentry-kubernetes/charts/releases/tag/sentry-v25.3.0), 1 day ago) - Easily deploy Sentry on your Kubernetes Cluster
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.4](https://github.com/symfony/symfony/releases/tag/v7.1.4), 1 week ago) - The Symfony PHP framework
 - [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta28](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta28), 2 weeks ago) - [READONLY] Symfony auto-instrumentation
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.53.0](https://github.com/transip/transip-api-php/releases/tag/6.53.0), 2 weeks ago) - PHP library for TransIP Rest API
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([symfony-app-0.6.2](https://github.com/xvilo/helm-charts/releases/tag/symfony-app-0.6.2), 1 month ago) - Repository of helm charts
