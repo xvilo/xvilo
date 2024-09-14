@@ -27,8 +27,8 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
+- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([sentry-v25.6.0](https://github.com/sentry-kubernetes/charts/releases/tag/sentry-v25.6.0), today) - Easily deploy Sentry on your Kubernetes Cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.5.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.5.1), 2 days ago) - 
-- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([sentry-v25.5.1](https://github.com/sentry-kubernetes/charts/releases/tag/sentry-v25.5.1), 2 days ago) - Easily deploy Sentry on your Kubernetes Cluster
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.4](https://github.com/symfony/symfony/releases/tag/v7.1.4), 2 weeks ago) - The Symfony PHP framework
 - [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta28](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta28), 3 weeks ago) - [READONLY] Symfony auto-instrumentation
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.53.0](https://github.com/transip/transip-api-php/releases/tag/6.53.0), 3 weeks ago) - PHP library for TransIP Rest API
