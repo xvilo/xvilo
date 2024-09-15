@@ -15,7 +15,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [xvilo/tests](https://github.com/xvilo/tests) -  (2 weeks ago)
 - [cirrax/puppet-mollyguard](https://github.com/cirrax/puppet-mollyguard) - A puppet module to configure molly-guard (3 weeks ago)
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (1 month ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 months ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 months ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 months ago)
 - [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) - Unofficial API Wrapper for OVPay (4 months ago)
 - [transip/homebrew-transip](https://github.com/transip/homebrew-transip) - TransIP Homebrew Tap (5 months ago)
@@ -27,8 +27,8 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([sentry-v25.7.0](https://github.com/sentry-kubernetes/charts/releases/tag/sentry-v25.7.0), today) - Easily deploy Sentry on your Kubernetes Cluster
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.5.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.5.1), 2 days ago) - 
+- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([sentry-v25.7.0](https://github.com/sentry-kubernetes/charts/releases/tag/sentry-v25.7.0), 1 day ago) - Easily deploy Sentry on your Kubernetes Cluster
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.5.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.5.1), 3 days ago) - 
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.4](https://github.com/symfony/symfony/releases/tag/v7.1.4), 2 weeks ago) - The Symfony PHP framework
 - [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta28](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta28), 3 weeks ago) - [READONLY] Symfony auto-instrumentation
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.53.0](https://github.com/transip/transip-api-php/releases/tag/6.53.0), 3 weeks ago) - PHP library for TransIP Rest API
