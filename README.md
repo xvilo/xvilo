@@ -12,6 +12,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### What I've been working on
 
+- [uptrace/helm-charts](https://github.com/uptrace/helm-charts) - Uptrace Helm Chart for Kubernetes (4 days ago)
 - [xvilo/tests](https://github.com/xvilo/tests) -  (3 weeks ago)
 - [cirrax/puppet-mollyguard](https://github.com/cirrax/puppet-mollyguard) - A puppet module to configure molly-guard (1 month ago)
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (2 months ago)
@@ -21,7 +22,6 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [transip/homebrew-transip](https://github.com/transip/homebrew-transip) - TransIP Homebrew Tap (5 months ago)
 - [xvilo/gofile-php-api](https://github.com/xvilo/gofile-php-api) - GoFile API Client in PHP (7 months ago)
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) - PHP library for TransIP Rest API (8 months ago)
-- [transip/transip-api-symfony](https://github.com/transip/transip-api-symfony) - This bundle provides an instance of TransipAPI to Symfony&#39;s Container. (8 months ago)
 
 ---
 
