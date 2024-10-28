@@ -13,7 +13,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 #### What I've been working on
 
 - [uptrace/helm-charts](https://github.com/uptrace/helm-charts) - Uptrace Helm Chart for Kubernetes (1 month ago)
-- [xvilo/tests](https://github.com/xvilo/tests) -  (1 month ago)
+- [xvilo/tests](https://github.com/xvilo/tests) -  (2 months ago)
 - [cirrax/puppet-mollyguard](https://github.com/cirrax/puppet-mollyguard) - A puppet module to configure molly-guard (2 months ago)
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (3 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (4 months ago)
@@ -27,10 +27,10 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.2.0-BETA1), today) - The Symfony PHP framework
-- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([sentry-v26.3.0](https://github.com/sentry-kubernetes/charts/releases/tag/sentry-v26.3.0), 1 day ago) - Easily deploy Sentry on your Kubernetes Cluster
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([meta-monitoring-1.3.0](https://github.com/grafana/helm-charts/releases/tag/meta-monitoring-1.3.0), 2 days ago) - 
-- [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta30](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta30), 3 days ago) - [READONLY] Symfony auto-instrumentation
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.2.0-BETA1), 1 day ago) - The Symfony PHP framework
+- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([sentry-v26.3.0](https://github.com/sentry-kubernetes/charts/releases/tag/sentry-v26.3.0), 2 days ago) - Easily deploy Sentry on your Kubernetes Cluster
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([meta-monitoring-1.3.0](https://github.com/grafana/helm-charts/releases/tag/meta-monitoring-1.3.0), 3 days ago) - 
+- [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta30](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta30), 4 days ago) - [READONLY] Symfony auto-instrumentation
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.53.1](https://github.com/transip/transip-api-php/releases/tag/6.53.1), 1 month ago) - PHP library for TransIP Rest API
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([symfony-app-0.6.2](https://github.com/xvilo/helm-charts/releases/tag/symfony-app-0.6.2), 3 months ago) - Repository of helm charts
 - [xvilo/gofile-php-api](https://github.com/xvilo/gofile-php-api) ([v0.1.0](https://github.com/xvilo/gofile-php-api/releases/tag/v0.1.0), 8 months ago) - GoFile API Client in PHP
