@@ -27,13 +27,13 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.4](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.4), today) - 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.2.0-BETA1), 5 days ago) - The Symfony PHP framework
-- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([sentry-v26.3.0](https://github.com/sentry-kubernetes/charts/releases/tag/sentry-v26.3.0), 6 days ago) - Easily deploy Sentry on your Kubernetes Cluster
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.4](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.4), 1 day ago) - 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.2.0-BETA1), 6 days ago) - The Symfony PHP framework
+- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([sentry-v26.3.0](https://github.com/sentry-kubernetes/charts/releases/tag/sentry-v26.3.0), 1 week ago) - Easily deploy Sentry on your Kubernetes Cluster
 - [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta30](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta30), 1 week ago) - [READONLY] Symfony auto-instrumentation
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.53.1](https://github.com/transip/transip-api-php/releases/tag/6.53.1), 1 month ago) - PHP library for TransIP Rest API
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([symfony-app-0.6.2](https://github.com/xvilo/helm-charts/releases/tag/symfony-app-0.6.2), 3 months ago) - Repository of helm charts
 - [xvilo/gofile-php-api](https://github.com/xvilo/gofile-php-api) ([v0.1.0](https://github.com/xvilo/gofile-php-api/releases/tag/v0.1.0), 8 months ago) - GoFile API Client in PHP
 - [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) ([v0.6.2](https://github.com/xvilo/ovpay-api/releases/tag/v0.6.2), 8 months ago) - Unofficial API Wrapper for OVPay
-- [open-telemetry/opentelemetry-php-contrib](https://github.com/open-telemetry/opentelemetry-php-contrib) ([releases-moved](https://github.com/open-telemetry/opentelemetry-php-contrib/releases/tag/releases-moved), 8 months ago) - opentelemetry-php-contrib
+- [open-telemetry/opentelemetry-php-contrib](https://github.com/open-telemetry/opentelemetry-php-contrib) ([releases-moved](https://github.com/open-telemetry/opentelemetry-php-contrib/releases/tag/releases-moved), 9 months ago) - opentelemetry-php-contrib
 - [transip/transip-api-symfony](https://github.com/transip/transip-api-symfony) ([v1.1.1](https://github.com/transip/transip-api-symfony/releases/tag/v1.1.1), 9 months ago) - This bundle provides an instance of TransipAPI to Symfony&#39;s Container.
