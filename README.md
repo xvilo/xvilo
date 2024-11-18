@@ -27,8 +27,8 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.4.12](https://github.com/grafana/helm-charts/releases/tag/beyla-1.4.12), today) - 
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.53.2](https://github.com/transip/transip-api-php/releases/tag/6.53.2), today) - PHP library for TransIP Rest API
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.6.0-weekly.317](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.6.0-weekly.317), today) - 
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.2.0-RC1), 5 days ago) - The Symfony PHP framework
 - [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([sentry-v26.5.0](https://github.com/sentry-kubernetes/charts/releases/tag/sentry-v26.5.0), 1 week ago) - Easily deploy Sentry on your Kubernetes Cluster
 - [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta30](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta30), 3 weeks ago) - [READONLY] Symfony auto-instrumentation
