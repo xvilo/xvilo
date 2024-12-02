@@ -27,10 +27,10 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.21.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.21.0), 1 day ago) - 
+- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.53.4](https://github.com/transip/transip-api-php/releases/tag/6.53.4), today) - PHP library for TransIP Rest API
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.6.0-weekly.319](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.6.0-weekly.319), today) - 
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0](https://github.com/symfony/symfony/releases/tag/v7.2.0), 3 days ago) - The Symfony PHP framework
 - [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([sentry-v26.7.0](https://github.com/sentry-kubernetes/charts/releases/tag/sentry-v26.7.0), 3 days ago) - Easily deploy Sentry on your Kubernetes Cluster
-- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.53.3](https://github.com/transip/transip-api-php/releases/tag/6.53.3), 4 days ago) - PHP library for TransIP Rest API
 - [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) ([1.0.0beta30](https://github.com/opentelemetry-php/contrib-auto-symfony/releases/tag/1.0.0beta30), 1 month ago) - [READONLY] Symfony auto-instrumentation
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([symfony-app-0.6.2](https://github.com/xvilo/helm-charts/releases/tag/symfony-app-0.6.2), 4 months ago) - Repository of helm charts
 - [xvilo/gofile-php-api](https://github.com/xvilo/gofile-php-api) ([v0.1.0](https://github.com/xvilo/gofile-php-api/releases/tag/v0.1.0), 9 months ago) - GoFile API Client in PHP
