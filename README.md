@@ -16,7 +16,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [xvilo/tests](https://github.com/xvilo/tests) -  (3 months ago)
 - [cirrax/puppet-mollyguard](https://github.com/cirrax/puppet-mollyguard) - A puppet module to configure molly-guard (3 months ago)
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (4 months ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (5 months ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (6 months ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (6 months ago)
 - [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) - Unofficial API Wrapper for OVPay (7 months ago)
 - [transip/homebrew-transip](https://github.com/transip/homebrew-transip) - TransIP Homebrew Tap (8 months ago)
@@ -27,9 +27,9 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.26.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.26.1), today) - 
-- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([sentry-v26.8.1](https://github.com/sentry-kubernetes/charts/releases/tag/sentry-v26.8.1), 2 days ago) - Easily deploy Sentry on your Kubernetes Cluster
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.1](https://github.com/symfony/symfony/releases/tag/v7.2.1), 2 days ago) - The Symfony PHP framework
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.26.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.26.1), 1 day ago) - 
+- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([sentry-v26.8.1](https://github.com/sentry-kubernetes/charts/releases/tag/sentry-v26.8.1), 3 days ago) - Easily deploy Sentry on your Kubernetes Cluster
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.1](https://github.com/symfony/symfony/releases/tag/v7.2.1), 3 days ago) - The Symfony PHP framework
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.53.5](https://github.com/transip/transip-api-php/releases/tag/6.53.5), 1 week ago) - PHP library for TransIP Rest API
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([symfony-app-0.6.2](https://github.com/xvilo/helm-charts/releases/tag/symfony-app-0.6.2), 4 months ago) - Repository of helm charts
 - [xvilo/gofile-php-api](https://github.com/xvilo/gofile-php-api) ([v0.1.0](https://github.com/xvilo/gofile-php-api/releases/tag/v0.1.0), 9 months ago) - GoFile API Client in PHP
