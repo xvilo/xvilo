@@ -27,8 +27,8 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.6.0-weekly.321](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.6.0-weekly.321), today) - 
 - [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) ([sentry-v26.9.0](https://github.com/sentry-kubernetes/charts/releases/tag/sentry-v26.9.0), today) - Easily deploy Sentry on your Kubernetes Cluster
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.8.1](https://github.com/grafana/helm-charts/releases/tag/grafana-8.8.1), 1 day ago) - 
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.1](https://github.com/symfony/symfony/releases/tag/v7.2.1), 5 days ago) - The Symfony PHP framework
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.53.5](https://github.com/transip/transip-api-php/releases/tag/6.53.5), 2 weeks ago) - PHP library for TransIP Rest API
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([symfony-app-0.6.2](https://github.com/xvilo/helm-charts/releases/tag/symfony-app-0.6.2), 4 months ago) - Repository of helm charts
