@@ -35,4 +35,3 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [xvilo/gofile-php-api](https://github.com/xvilo/gofile-php-api) ([v0.1.0](https://github.com/xvilo/gofile-php-api/releases/tag/v0.1.0), 9 months ago) - GoFile API Client in PHP
 - [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) ([v0.6.2](https://github.com/xvilo/ovpay-api/releases/tag/v0.6.2), 9 months ago) - Unofficial API Wrapper for OVPay
 - [transip/transip-api-symfony](https://github.com/transip/transip-api-symfony) ([v1.1.1](https://github.com/transip/transip-api-symfony/releases/tag/v1.1.1), 11 months ago) - This bundle provides an instance of TransipAPI to Symfony&#39;s Container.
-- [repman-io/repman](https://github.com/repman-io/repman) ([1.4.0](https://github.com/repman-io/repman/releases/tag/1.4.0), 2 years ago) - Repman - PHP Repository Manager: packagist proxy and host for private packages 
