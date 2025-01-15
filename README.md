@@ -29,8 +29,6 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.8.3](https://github.com/grafana/helm-charts/releases/tag/grafana-8.8.3), today) - 
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.2](https://github.com/symfony/symfony/releases/tag/v7.2.2), 2 weeks ago) - The Symfony PHP framework
-- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.53.5](https://github.com/transip/transip-api-php/releases/tag/6.53.5), 1 month ago) - PHP library for TransIP Rest API
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([symfony-app-0.6.2](https://github.com/xvilo/helm-charts/releases/tag/symfony-app-0.6.2), 5 months ago) - Repository of helm charts
 - [xvilo/gofile-php-api](https://github.com/xvilo/gofile-php-api) ([v0.1.0](https://github.com/xvilo/gofile-php-api/releases/tag/v0.1.0), 10 months ago) - GoFile API Client in PHP
 - [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) ([v0.6.2](https://github.com/xvilo/ovpay-api/releases/tag/v0.6.2), 10 months ago) - Unofficial API Wrapper for OVPay
-- [transip/transip-api-symfony](https://github.com/transip/transip-api-symfony) ([v1.1.1](https://github.com/transip/transip-api-symfony/releases/tag/v1.1.1), 1 year ago) - This bundle provides an instance of TransipAPI to Symfony&#39;s Container.
