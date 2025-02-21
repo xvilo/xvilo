@@ -18,7 +18,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [xvilo/tests](https://github.com/xvilo/tests) -  (5 months ago)
 - [cirrax/puppet-mollyguard](https://github.com/cirrax/puppet-mollyguard) - A puppet module to configure molly-guard (6 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (8 months ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (8 months ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (9 months ago)
 - [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) - Unofficial API Wrapper for OVPay (9 months ago)
 - [transip/homebrew-transip](https://github.com/transip/homebrew-transip) - TransIP Homebrew Tap (10 months ago)
 - [xvilo/gofile-php-api](https://github.com/xvilo/gofile-php-api) - GoFile API Client in PHP (1 year ago)
@@ -27,7 +27,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.12](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.12), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.12](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.12), 1 day ago) - 
 - [xvilo/go-default-backend](https://github.com/xvilo/go-default-backend) ([v0.1.2](https://github.com/xvilo/go-default-backend/releases/tag/v0.1.2), 1 week ago) - Default Backend for Kubernetes ingress written in Go
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([isponsorblocktv-0.1.3](https://github.com/xvilo/helm-charts/releases/tag/isponsorblocktv-0.1.3), 1 week ago) - Repository of helm charts
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.3](https://github.com/symfony/symfony/releases/tag/v7.2.3), 3 weeks ago) - The Symfony PHP framework
