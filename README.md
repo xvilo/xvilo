@@ -12,7 +12,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### What I've been working on
 
-- [RyuunosukeDS3/helm-charts](https://github.com/RyuunosukeDS3/helm-charts) -  (3 days ago)
+- [RyuunosukeDS3/helm-charts](https://github.com/RyuunosukeDS3/helm-charts) -  (today)
 - [mastodon/chart](https://github.com/mastodon/chart) - Helm chart for Mastodon deployment in Kubernetes (4 days ago)
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (6 days ago)
 - [xvilo/go-default-backend](https://github.com/xvilo/go-default-backend) - Default Backend for Kubernetes ingress written in Go (1 month ago)
