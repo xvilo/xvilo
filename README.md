@@ -12,6 +12,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### What I've been working on
 
+- [RyuunosukeDS3/helm-charts](https://github.com/RyuunosukeDS3/helm-charts) -  (3 days ago)
 - [mastodon/chart](https://github.com/mastodon/chart) - Helm chart for Mastodon deployment in Kubernetes (4 days ago)
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (6 days ago)
 - [xvilo/go-default-backend](https://github.com/xvilo/go-default-backend) - Default Backend for Kubernetes ingress written in Go (1 month ago)
@@ -21,7 +22,6 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (9 months ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (9 months ago)
 - [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) - Unofficial API Wrapper for OVPay (10 months ago)
-- [transip/homebrew-transip](https://github.com/transip/homebrew-transip) - TransIP Homebrew Tap (11 months ago)
 
 ---
 
