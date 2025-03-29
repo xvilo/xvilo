@@ -27,8 +27,8 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.31](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.31), today) - 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.5](https://github.com/symfony/symfony/releases/tag/v7.2.5), today) - The Symfony PHP framework
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.31](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.31), 1 day ago) - 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.5](https://github.com/symfony/symfony/releases/tag/v7.2.5), 1 day ago) - The Symfony PHP framework
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([isponsorblocktv-0.1.5](https://github.com/xvilo/helm-charts/releases/tag/isponsorblocktv-0.1.5), 2 weeks ago) - Repository of helm charts
 - [xvilo/go-default-backend](https://github.com/xvilo/go-default-backend) ([v0.1.2](https://github.com/xvilo/go-default-backend/releases/tag/v0.1.2), 1 month ago) - Default Backend for Kubernetes ingress written in Go
 - [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) ([v0.6.2](https://github.com/xvilo/ovpay-api/releases/tag/v0.6.2), 1 year ago) - Unofficial API Wrapper for OVPay
