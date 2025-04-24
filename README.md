@@ -12,8 +12,8 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### What I've been working on
 
-- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (2 days ago)
-- [mastodon/chart](https://github.com/mastodon/chart) - Helm chart for Mastodon deployment in Kubernetes (2 weeks ago)
+- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (3 days ago)
+- [mastodon/chart](https://github.com/mastodon/chart) - Helm chart for Mastodon deployment in Kubernetes (3 weeks ago)
 - [RyuunosukeDS3/helm-charts](https://github.com/RyuunosukeDS3/helm-charts) -  (1 month ago)
 - [xvilo/go-default-backend](https://github.com/xvilo/go-default-backend) - Default Backend for Kubernetes ingress written in Go (2 months ago)
 - [uptrace/helm-charts](https://github.com/uptrace/helm-charts) - Uptrace Helm Chart for Kubernetes (7 months ago)
@@ -27,8 +27,8 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.2.4-beta.1](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.2.4-beta.1), today) - 
-- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([isponsorblocktv-1.0.0](https://github.com/xvilo/helm-charts/releases/tag/isponsorblocktv-1.0.0), 2 days ago) - Repository of helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.2.4-beta.1](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.2.4-beta.1), 1 day ago) - 
+- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([isponsorblocktv-1.0.0](https://github.com/xvilo/helm-charts/releases/tag/isponsorblocktv-1.0.0), 3 days ago) - Repository of helm charts
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.5](https://github.com/symfony/symfony/releases/tag/v7.2.5), 3 weeks ago) - The Symfony PHP framework
 - [xvilo/go-default-backend](https://github.com/xvilo/go-default-backend) ([v0.1.2](https://github.com/xvilo/go-default-backend/releases/tag/v0.1.2), 2 months ago) - Default Backend for Kubernetes ingress written in Go
 - [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) ([v0.6.2](https://github.com/xvilo/ovpay-api/releases/tag/v0.6.2), 1 year ago) - Unofficial API Wrapper for OVPay
