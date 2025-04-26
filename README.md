@@ -27,7 +27,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.2.6-beta.3](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.2.6-beta.3), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.2.6-beta.4](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.2.6-beta.4), today) - 
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([isponsorblocktv-1.0.0](https://github.com/xvilo/helm-charts/releases/tag/isponsorblocktv-1.0.0), 5 days ago) - Repository of helm charts
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.5](https://github.com/symfony/symfony/releases/tag/v7.2.5), 4 weeks ago) - The Symfony PHP framework
 - [xvilo/go-default-backend](https://github.com/xvilo/go-default-backend) ([v0.1.2](https://github.com/xvilo/go-default-backend/releases/tag/v0.1.2), 2 months ago) - Default Backend for Kubernetes ingress written in Go
