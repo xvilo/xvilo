@@ -31,4 +31,3 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([isponsorblocktv-1.0.0](https://github.com/xvilo/helm-charts/releases/tag/isponsorblocktv-1.0.0), 1 week ago) - Repository of helm charts
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.5](https://github.com/symfony/symfony/releases/tag/v7.2.5), 1 month ago) - The Symfony PHP framework
 - [xvilo/go-default-backend](https://github.com/xvilo/go-default-backend) ([v0.1.2](https://github.com/xvilo/go-default-backend/releases/tag/v0.1.2), 2 months ago) - Default Backend for Kubernetes ingress written in Go
-- [xvilo/ovpay-api](https://github.com/xvilo/ovpay-api) ([v0.6.2](https://github.com/xvilo/ovpay-api/releases/tag/v0.6.2), 1 year ago) - Unofficial API Wrapper for OVPay
