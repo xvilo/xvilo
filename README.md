@@ -12,8 +12,8 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### What I've been working on
 
-- [mastodon/chart](https://github.com/mastodon/chart) - Helm chart for Mastodon deployment in Kubernetes (5 days ago)
-- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (2 weeks ago)
+- [mastodon/chart](https://github.com/mastodon/chart) - Helm chart for Mastodon deployment in Kubernetes (6 days ago)
+- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (3 weeks ago)
 - [RyuunosukeDS3/helm-charts](https://github.com/RyuunosukeDS3/helm-charts) -  (1 month ago)
 - [xvilo/go-default-backend](https://github.com/xvilo/go-default-backend) - Default Backend for Kubernetes ingress written in Go (3 months ago)
 - [uptrace/helm-charts](https://github.com/uptrace/helm-charts) - Uptrace Helm Chart for Kubernetes (7 months ago)
@@ -26,7 +26,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0-BETA2](https://github.com/symfony/symfony/releases/tag/v7.3.0-BETA2), 1 day ago) - The Symfony PHP framework
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.13.1](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.13.1), 2 days ago) - 
-- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([isponsorblocktv-1.0.0](https://github.com/xvilo/helm-charts/releases/tag/isponsorblocktv-1.0.0), 2 weeks ago) - Repository of helm charts
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0-BETA2](https://github.com/symfony/symfony/releases/tag/v7.3.0-BETA2), 2 days ago) - The Symfony PHP framework
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.13.1](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.13.1), 3 days ago) - 
+- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([isponsorblocktv-1.0.0](https://github.com/xvilo/helm-charts/releases/tag/isponsorblocktv-1.0.0), 3 weeks ago) - Repository of helm charts
 - [xvilo/go-default-backend](https://github.com/xvilo/go-default-backend) ([v0.1.2](https://github.com/xvilo/go-default-backend/releases/tag/v0.1.2), 3 months ago) - Default Backend for Kubernetes ingress written in Go
