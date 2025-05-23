@@ -27,7 +27,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.2.0](https://github.com/grafana/helm-charts/releases/tag/grafana-9.2.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.38](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.38), today) - 
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.53.9](https://github.com/transip/transip-api-php/releases/tag/6.53.9), 2 days ago) - PHP library for TransIP Rest API
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0-BETA2](https://github.com/symfony/symfony/releases/tag/v7.3.0-BETA2), 1 week ago) - The Symfony PHP framework
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([isponsorblocktv-1.0.0](https://github.com/xvilo/helm-charts/releases/tag/isponsorblocktv-1.0.0), 1 month ago) - Repository of helm charts
