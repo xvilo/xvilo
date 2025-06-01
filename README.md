@@ -21,7 +21,6 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [xvilo/tests](https://github.com/xvilo/tests) -  (9 months ago)
 - [cirrax/puppet-mollyguard](https://github.com/cirrax/puppet-mollyguard) - A puppet module to configure molly-guard (9 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (11 months ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 year ago)
 
 ---
 
