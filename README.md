@@ -17,7 +17,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (1 month ago)
 - [RyuunosukeDS3/helm-charts](https://github.com/RyuunosukeDS3/helm-charts) -  (3 months ago)
 - [xvilo/go-default-backend](https://github.com/xvilo/go-default-backend) - Default Backend for Kubernetes ingress written in Go (4 months ago)
-- [uptrace/helm-charts](https://github.com/uptrace/helm-charts) - Uptrace Helm Chart for Kubernetes (8 months ago)
+- [uptrace/helm-charts](https://github.com/uptrace/helm-charts) - Uptrace Helm Chart for Kubernetes (9 months ago)
 - [xvilo/tests](https://github.com/xvilo/tests) -  (9 months ago)
 - [cirrax/puppet-mollyguard](https://github.com/cirrax/puppet-mollyguard) - A puppet module to configure molly-guard (10 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 year ago)
