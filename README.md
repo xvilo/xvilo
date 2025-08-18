@@ -26,6 +26,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
+- [cirrax/puppet-mollyguard](https://github.com/cirrax/puppet-mollyguard) ([v1.2.3](https://github.com/cirrax/puppet-mollyguard/releases/tag/v1.2.3), today) - A puppet module to configure molly-guard
 - [remram44/matrix-helm](https://github.com/remram44/matrix-helm) ([matrix-2.6.3](https://github.com/remram44/matrix-helm/releases/tag/matrix-2.6.3), 5 days ago) - A Helm Chart for matrix.org (Synapse and Element Web)
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.53.9](https://github.com/transip/transip-api-php/releases/tag/6.53.9), 2 months ago) - PHP library for TransIP Rest API
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([isponsorblocktv-1.0.0](https://github.com/xvilo/helm-charts/releases/tag/isponsorblocktv-1.0.0), 3 months ago) - Repository of helm charts
