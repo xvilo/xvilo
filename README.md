@@ -18,13 +18,13 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) - PHP library for TransIP Rest API (3 months ago)
 - [mastodon/chart](https://github.com/mastodon/chart) - Helm chart for Mastodon deployment in Kubernetes (4 months ago)
 - [xvilo/go-default-backend](https://github.com/xvilo/go-default-backend) - Default Backend for Kubernetes ingress written in Go (7 months ago)
-- [uptrace/helm-charts](https://github.com/uptrace/helm-charts) - Uptrace Helm Chart for Kubernetes (11 months ago)
+- [uptrace/helm-charts](https://github.com/uptrace/helm-charts) - Uptrace Helm Chart for Kubernetes (1 year ago)
 
 ---
 
 #### My latest contributions
 
-- [remram44/matrix-helm](https://github.com/remram44/matrix-helm) ([matrix-2.8.1](https://github.com/remram44/matrix-helm/releases/tag/matrix-2.8.1), 3 days ago) - A Helm Chart for matrix.org (Synapse and Element Web)
+- [remram44/matrix-helm](https://github.com/remram44/matrix-helm) ([matrix-2.8.1](https://github.com/remram44/matrix-helm/releases/tag/matrix-2.8.1), 4 days ago) - A Helm Chart for matrix.org (Synapse and Element Web)
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([symfony-app-0.6.5](https://github.com/xvilo/helm-charts/releases/tag/symfony-app-0.6.5), 1 week ago) - Repository of helm charts
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.53.9](https://github.com/transip/transip-api-php/releases/tag/6.53.9), 3 months ago) - PHP library for TransIP Rest API
 - [xvilo/go-default-backend](https://github.com/xvilo/go-default-backend) ([v0.1.2](https://github.com/xvilo/go-default-backend/releases/tag/v0.1.2), 7 months ago) - Default Backend for Kubernetes ingress written in Go
