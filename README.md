@@ -18,7 +18,6 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) - PHP library for TransIP Rest API (4 months ago)
 - [mastodon/chart](https://github.com/mastodon/chart) - Helm chart for Mastodon deployment in Kubernetes (4 months ago)
 - [xvilo/go-default-backend](https://github.com/xvilo/go-default-backend) - Default Backend for Kubernetes ingress written in Go (7 months ago)
-- [uptrace/helm-charts](https://github.com/uptrace/helm-charts) - Uptrace Helm Chart for Kubernetes (1 year ago)
 
 ---
 
