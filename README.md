@@ -24,8 +24,8 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [plexinc/pms-docker](https://github.com/plexinc/pms-docker) ([helm-chart-1.3.0](https://github.com/plexinc/pms-docker/releases/tag/helm-chart-1.3.0), 3 days ago) - Plex Media Server Docker repo, for all your PMS docker needs.
-- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.53.11](https://github.com/transip/transip-api-php/releases/tag/6.53.11), 3 days ago) - PHP library for TransIP Rest API
-- [remram44/matrix-helm](https://github.com/remram44/matrix-helm) ([matrix-2.9.9](https://github.com/remram44/matrix-helm/releases/tag/matrix-2.9.9), 5 days ago) - A Helm Chart for matrix.org (Synapse and Element Web)
+- [plexinc/pms-docker](https://github.com/plexinc/pms-docker) ([helm-chart-1.3.0](https://github.com/plexinc/pms-docker/releases/tag/helm-chart-1.3.0), 4 days ago) - Plex Media Server Docker repo, for all your PMS docker needs.
+- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.53.11](https://github.com/transip/transip-api-php/releases/tag/6.53.11), 4 days ago) - PHP library for TransIP Rest API
+- [remram44/matrix-helm](https://github.com/remram44/matrix-helm) ([matrix-2.9.9](https://github.com/remram44/matrix-helm/releases/tag/matrix-2.9.9), 6 days ago) - A Helm Chart for matrix.org (Synapse and Element Web)
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([intel-gpu-exporter-0.1.0](https://github.com/xvilo/helm-charts/releases/tag/intel-gpu-exporter-0.1.0), 1 month ago) - Repository of helm charts
 - [xvilo/go-default-backend](https://github.com/xvilo/go-default-backend) ([v0.1.2](https://github.com/xvilo/go-default-backend/releases/tag/v0.1.2), 9 months ago) - Default Backend for Kubernetes ingress written in Go
