@@ -12,7 +12,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### What I've been working on
 
-- [transip/transip-api-php](https://github.com/transip/transip-api-php) - PHP library for TransIP Rest API (today)
+- [transip/transip-api-php](https://github.com/transip/transip-api-php) - PHP library for TransIP Rest API (1 day ago)
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (1 week ago)
 - [plexinc/pms-docker](https://github.com/plexinc/pms-docker) - Plex Media Server Docker repo, for all your PMS docker needs. (2 months ago)
 - [RyuunosukeDS3/helm-charts](https://github.com/RyuunosukeDS3/helm-charts) -  (4 months ago)
@@ -24,8 +24,8 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.54.0](https://github.com/transip/transip-api-php/releases/tag/6.54.0), today) - PHP library for TransIP Rest API
+- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.54.0](https://github.com/transip/transip-api-php/releases/tag/6.54.0), 1 day ago) - PHP library for TransIP Rest API
 - [remram44/matrix-helm](https://github.com/remram44/matrix-helm) ([element-1.2.7](https://github.com/remram44/matrix-helm/releases/tag/element-1.2.7), 1 week ago) - A Helm Chart for matrix.org (Synapse and Element Web)
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([isponsorblocktv-1.0.2](https://github.com/xvilo/helm-charts/releases/tag/isponsorblocktv-1.0.2), 1 week ago) - Repository of helm charts
-- [plexinc/pms-docker](https://github.com/plexinc/pms-docker) ([helm-chart-1.4.0](https://github.com/plexinc/pms-docker/releases/tag/helm-chart-1.4.0), 2 weeks ago) - Plex Media Server Docker repo, for all your PMS docker needs.
+- [plexinc/pms-docker](https://github.com/plexinc/pms-docker) ([helm-chart-1.4.0](https://github.com/plexinc/pms-docker/releases/tag/helm-chart-1.4.0), 3 weeks ago) - Plex Media Server Docker repo, for all your PMS docker needs.
 - [xvilo/go-default-backend](https://github.com/xvilo/go-default-backend) ([v0.1.2](https://github.com/xvilo/go-default-backend/releases/tag/v0.1.2), 10 months ago) - Default Backend for Kubernetes ingress written in Go
