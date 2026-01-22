@@ -12,7 +12,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### What I've been working on
 
-- [transip/transip-api-php](https://github.com/transip/transip-api-php) - PHP library for TransIP Rest API (4 weeks ago)
+- [transip/transip-api-php](https://github.com/transip/transip-api-php) - PHP library for TransIP Rest API (1 month ago)
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (1 month ago)
 - [plexinc/pms-docker](https://github.com/plexinc/pms-docker) - Plex Media Server Docker repo, for all your PMS docker needs. (3 months ago)
 - [RyuunosukeDS3/helm-charts](https://github.com/RyuunosukeDS3/helm-charts) -  (5 months ago)
@@ -25,7 +25,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 #### My latest contributions
 
 - [remram44/matrix-helm](https://github.com/remram44/matrix-helm) ([matrix-2.9.11](https://github.com/remram44/matrix-helm/releases/tag/matrix-2.9.11), 1 week ago) - A Helm Chart for matrix.org (Synapse and Element Web)
-- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.54.0](https://github.com/transip/transip-api-php/releases/tag/6.54.0), 4 weeks ago) - PHP library for TransIP Rest API
+- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.54.0](https://github.com/transip/transip-api-php/releases/tag/6.54.0), 1 month ago) - PHP library for TransIP Rest API
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([isponsorblocktv-1.0.2](https://github.com/xvilo/helm-charts/releases/tag/isponsorblocktv-1.0.2), 1 month ago) - Repository of helm charts
 - [plexinc/pms-docker](https://github.com/plexinc/pms-docker) ([helm-chart-1.4.0](https://github.com/plexinc/pms-docker/releases/tag/helm-chart-1.4.0), 1 month ago) - Plex Media Server Docker repo, for all your PMS docker needs.
 - [xvilo/go-default-backend](https://github.com/xvilo/go-default-backend) ([v0.1.2](https://github.com/xvilo/go-default-backend/releases/tag/v0.1.2), 11 months ago) - Default Backend for Kubernetes ingress written in Go
