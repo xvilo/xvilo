@@ -19,7 +19,6 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [RyuunosukeDS3/helm-charts](https://github.com/RyuunosukeDS3/helm-charts) -  (6 months ago)
 - [remram44/matrix-helm](https://github.com/remram44/matrix-helm) - A Helm Chart for matrix.org (Synapse and Element Web) (6 months ago)
 - [mastodon/chart](https://github.com/mastodon/chart) - Helm chart for Mastodon deployment in Kubernetes (9 months ago)
-- [xvilo/go-default-backend](https://github.com/xvilo/go-default-backend) - Default Backend for Kubernetes ingress written in Go (1 year ago)
 
 ---
 
