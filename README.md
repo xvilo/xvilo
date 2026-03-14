@@ -25,7 +25,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([matrix-3.16.0](https://github.com/zekker6/helm-charts/releases/tag/matrix-3.16.0), 3 days ago) - A collection of Helm charts
+- [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([readeck-0.26.0](https://github.com/zekker6/helm-charts/releases/tag/readeck-0.26.0), today) - A collection of Helm charts
 - [plexinc/pms-docker](https://github.com/plexinc/pms-docker) ([helm-chart-1.5.0](https://github.com/plexinc/pms-docker/releases/tag/helm-chart-1.5.0), 4 days ago) - Plex Media Server Docker repo, for all your PMS docker needs.
 - [remram44/matrix-helm](https://github.com/remram44/matrix-helm) ([matrix-2.9.15](https://github.com/remram44/matrix-helm/releases/tag/matrix-2.9.15), 2 weeks ago) - A Helm Chart for matrix.org (Synapse and Element Web)
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.54.1](https://github.com/transip/transip-api-php/releases/tag/6.54.1), 2 weeks ago) - PHP library for TransIP Rest API
