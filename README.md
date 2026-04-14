@@ -25,8 +25,8 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
+- [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([matrix-3.18.0](https://github.com/zekker6/helm-charts/releases/tag/matrix-3.18.0), today) - A collection of Helm charts
 - [remram44/matrix-helm](https://github.com/remram44/matrix-helm) ([matrix-2.9.18](https://github.com/remram44/matrix-helm/releases/tag/matrix-2.9.18), 6 days ago) - A Helm Chart for matrix.org (Synapse and Element Web)
-- [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([docuseal-1.108.0](https://github.com/zekker6/helm-charts/releases/tag/docuseal-1.108.0), 6 days ago) - A collection of Helm charts
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.54.5](https://github.com/transip/transip-api-php/releases/tag/6.54.5), 1 week ago) - PHP library for TransIP Rest API
 - [plexinc/pms-docker](https://github.com/plexinc/pms-docker) ([helm-chart-1.5.0](https://github.com/plexinc/pms-docker/releases/tag/helm-chart-1.5.0), 1 month ago) - Plex Media Server Docker repo, for all your PMS docker needs.
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([isponsorblocktv-1.0.2](https://github.com/xvilo/helm-charts/releases/tag/isponsorblocktv-1.0.2), 3 months ago) - Repository of helm charts
