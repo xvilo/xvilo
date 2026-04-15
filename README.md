@@ -12,6 +12,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### What I've been working on
 
+- [mastodon/chart](https://github.com/mastodon/chart) - Helm chart for Mastodon deployment in Kubernetes (today)
 - [zekker6/helm-charts](https://github.com/zekker6/helm-charts) - A collection of Helm charts (1 month ago)
 - [xvilo/signal](https://github.com/xvilo/signal) -  (2 months ago)
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) - PHP library for TransIP Rest API (3 months ago)
@@ -19,7 +20,6 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [plexinc/pms-docker](https://github.com/plexinc/pms-docker) - Plex Media Server Docker repo, for all your PMS docker needs. (6 months ago)
 - [RyuunosukeDS3/helm-charts](https://github.com/RyuunosukeDS3/helm-charts) -  (8 months ago)
 - [remram44/matrix-helm](https://github.com/remram44/matrix-helm) - A Helm Chart for matrix.org (Synapse and Element Web) (8 months ago)
-- [mastodon/chart](https://github.com/mastodon/chart) - Helm chart for Mastodon deployment in Kubernetes (11 months ago)
 
 ---
 
