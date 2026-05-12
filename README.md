@@ -25,7 +25,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [remram44/matrix-helm](https://github.com/remram44/matrix-helm) ([matrix-2.9.20](https://github.com/remram44/matrix-helm/releases/tag/matrix-2.9.20), 1 day ago) - A Helm Chart for matrix.org (Synapse and Element Web)
+- [remram44/matrix-helm](https://github.com/remram44/matrix-helm) ([element-1.2.17](https://github.com/remram44/matrix-helm/releases/tag/element-1.2.17), today) - A Helm Chart for matrix.org (Synapse and Element Web)
 - [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([matrix-3.20.0](https://github.com/zekker6/helm-charts/releases/tag/matrix-3.20.0), 3 days ago) - A collection of Helm charts
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([isponsorblocktv-1.0.3](https://github.com/xvilo/helm-charts/releases/tag/isponsorblocktv-1.0.3), 2 weeks ago) - Repository of helm charts
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.54.6](https://github.com/transip/transip-api-php/releases/tag/6.54.6), 3 weeks ago) - PHP library for TransIP Rest API
