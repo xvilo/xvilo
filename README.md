@@ -12,8 +12,8 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### What I've been working on
 
-- [mastodon/chart](https://github.com/mastodon/chart) - Helm chart for Mastodon deployment in Kubernetes (2 days ago)
-- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (6 days ago)
+- [mastodon/chart](https://github.com/mastodon/chart) - Helm chart for Mastodon deployment in Kubernetes (3 days ago)
+- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (1 week ago)
 - [zekker6/helm-charts](https://github.com/zekker6/helm-charts) - A collection of Helm charts (3 months ago)
 - [xvilo/signal](https://github.com/xvilo/signal) -  (4 months ago)
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) - PHP library for TransIP Rest API (5 months ago)
@@ -25,8 +25,8 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([matrix-3.23.0](https://github.com/zekker6/helm-charts/releases/tag/matrix-3.23.0), 2 days ago) - A collection of Helm charts
-- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.54.7](https://github.com/transip/transip-api-php/releases/tag/6.54.7), 3 days ago) - PHP library for TransIP Rest API
+- [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([matrix-3.23.0](https://github.com/zekker6/helm-charts/releases/tag/matrix-3.23.0), 3 days ago) - A collection of Helm charts
+- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.54.7](https://github.com/transip/transip-api-php/releases/tag/6.54.7), 4 days ago) - PHP library for TransIP Rest API
 - [plexinc/pms-docker](https://github.com/plexinc/pms-docker) ([helm-chart-1.6.0](https://github.com/plexinc/pms-docker/releases/tag/helm-chart-1.6.0), 1 week ago) - Plex Media Server Docker repo, for all your PMS docker needs.
 - [remram44/matrix-helm](https://github.com/remram44/matrix-helm) ([matrix-2.9.22](https://github.com/remram44/matrix-helm/releases/tag/matrix-2.9.22), 1 week ago) - A Helm Chart for matrix.org (Synapse and Element Web)
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([isponsorblocktv-1.0.3](https://github.com/xvilo/helm-charts/releases/tag/isponsorblocktv-1.0.3), 1 month ago) - Repository of helm charts
