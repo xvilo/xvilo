@@ -13,8 +13,8 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 #### What I've been working on
 
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (today)
-- [xvilo/stonker-frontend](https://github.com/xvilo/stonker-frontend) -  (today)
 - [xvilo/stonker-backend](https://github.com/xvilo/stonker-backend) -  (today)
+- [xvilo/stonker-frontend](https://github.com/xvilo/stonker-frontend) -  (today)
 - [mastodon/chart](https://github.com/mastodon/chart) - Helm chart for Mastodon deployment in Kubernetes (4 days ago)
 - [zekker6/helm-charts](https://github.com/zekker6/helm-charts) - A collection of Helm charts (3 months ago)
 - [xvilo/signal](https://github.com/xvilo/signal) -  (4 months ago)
@@ -27,9 +27,9 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
+- [xvilo/stonker-backend](https://github.com/xvilo/stonker-backend) ([v0.2.0-BETA1](https://github.com/xvilo/stonker-backend/releases/tag/v0.2.0-BETA1), today) - 
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([stonker-0.1.0](https://github.com/xvilo/helm-charts/releases/tag/stonker-0.1.0), today) - Repository of helm charts
 - [xvilo/stonker-frontend](https://github.com/xvilo/stonker-frontend) ([v0.1.0](https://github.com/xvilo/stonker-frontend/releases/tag/v0.1.0), today) - 
-- [xvilo/stonker-backend](https://github.com/xvilo/stonker-backend) ([v0.1.0](https://github.com/xvilo/stonker-backend/releases/tag/v0.1.0), today) - 
 - [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([matrix-3.23.0](https://github.com/zekker6/helm-charts/releases/tag/matrix-3.23.0), 4 days ago) - A collection of Helm charts
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.54.7](https://github.com/transip/transip-api-php/releases/tag/6.54.7), 5 days ago) - PHP library for TransIP Rest API
 - [plexinc/pms-docker](https://github.com/plexinc/pms-docker) ([helm-chart-1.6.0](https://github.com/plexinc/pms-docker/releases/tag/helm-chart-1.6.0), 1 week ago) - Plex Media Server Docker repo, for all your PMS docker needs.
