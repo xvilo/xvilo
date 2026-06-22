@@ -12,8 +12,8 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### What I've been working on
 
-- [xvilo/stonker-backend](https://github.com/xvilo/stonker-backend) -  (today)
 - [xvilo/stonker-frontend](https://github.com/xvilo/stonker-frontend) -  (today)
+- [xvilo/stonker-backend](https://github.com/xvilo/stonker-backend) -  (today)
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (1 day ago)
 - [mastodon/chart](https://github.com/mastodon/chart) - Helm chart for Mastodon deployment in Kubernetes (5 days ago)
 - [zekker6/helm-charts](https://github.com/zekker6/helm-charts) - A collection of Helm charts (3 months ago)
@@ -27,8 +27,8 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [xvilo/stonker-frontend](https://github.com/xvilo/stonker-frontend) ([v0.2.0-BETA1](https://github.com/xvilo/stonker-frontend/releases/tag/v0.2.0-BETA1), today) - 
-- [xvilo/stonker-backend](https://github.com/xvilo/stonker-backend) ([v0.2.0-BETA3](https://github.com/xvilo/stonker-backend/releases/tag/v0.2.0-BETA3), today) - 
+- [xvilo/stonker-frontend](https://github.com/xvilo/stonker-frontend) ([v0.2.0-BETA3](https://github.com/xvilo/stonker-frontend/releases/tag/v0.2.0-BETA3), today) - 
+- [xvilo/stonker-backend](https://github.com/xvilo/stonker-backend) ([v0.2.0-BETA4](https://github.com/xvilo/stonker-backend/releases/tag/v0.2.0-BETA4), today) - 
 - [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([crowdsec-web-ui-0.22.0](https://github.com/zekker6/helm-charts/releases/tag/crowdsec-web-ui-0.22.0), today) - A collection of Helm charts
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([stonker-0.1.0](https://github.com/xvilo/helm-charts/releases/tag/stonker-0.1.0), 1 day ago) - Repository of helm charts
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.54.7](https://github.com/transip/transip-api-php/releases/tag/6.54.7), 6 days ago) - PHP library for TransIP Rest API
