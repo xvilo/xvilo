@@ -27,9 +27,9 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
+- [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([healthchecks-1.9.0](https://github.com/zekker6/helm-charts/releases/tag/healthchecks-1.9.0), today) - A collection of Helm charts
 - [xvilo/stonker-frontend](https://github.com/xvilo/stonker-frontend) ([v0.2.0-BETA5](https://github.com/xvilo/stonker-frontend/releases/tag/v0.2.0-BETA5), 1 day ago) - 
 - [xvilo/stonker-backend](https://github.com/xvilo/stonker-backend) ([v0.2.0-BETA5](https://github.com/xvilo/stonker-backend/releases/tag/v0.2.0-BETA5), 1 day ago) - 
-- [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([crowdsec-web-ui-0.22.0](https://github.com/zekker6/helm-charts/releases/tag/crowdsec-web-ui-0.22.0), 1 day ago) - A collection of Helm charts
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([stonker-0.1.0](https://github.com/xvilo/helm-charts/releases/tag/stonker-0.1.0), 2 days ago) - Repository of helm charts
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.54.7](https://github.com/transip/transip-api-php/releases/tag/6.54.7), 1 week ago) - PHP library for TransIP Rest API
 - [plexinc/pms-docker](https://github.com/plexinc/pms-docker) ([helm-chart-1.6.0](https://github.com/plexinc/pms-docker/releases/tag/helm-chart-1.6.0), 1 week ago) - Plex Media Server Docker repo, for all your PMS docker needs.
