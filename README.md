@@ -27,7 +27,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([airtrail-0.2.0](https://github.com/xvilo/helm-charts/releases/tag/airtrail-0.2.0), today) - Repository of helm charts
+- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([airtrail-0.2.1](https://github.com/xvilo/helm-charts/releases/tag/airtrail-0.2.1), today) - Repository of helm charts
 - [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([crowdsec-web-ui-0.24.0](https://github.com/zekker6/helm-charts/releases/tag/crowdsec-web-ui-0.24.0), 4 days ago) - A collection of Helm charts
 - [xvilo/stonker-frontend](https://github.com/xvilo/stonker-frontend) ([v0.2.0-BETA5](https://github.com/xvilo/stonker-frontend/releases/tag/v0.2.0-BETA5), 6 days ago) - 
 - [xvilo/stonker-backend](https://github.com/xvilo/stonker-backend) ([v0.2.0-BETA5](https://github.com/xvilo/stonker-backend/releases/tag/v0.2.0-BETA5), 6 days ago) - 
