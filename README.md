@@ -12,7 +12,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### What I've been working on
 
-- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (today)
+- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (1 day ago)
 - [xvilo/stonker-frontend](https://github.com/xvilo/stonker-frontend) -  (1 week ago)
 - [xvilo/stonker-backend](https://github.com/xvilo/stonker-backend) -  (1 week ago)
 - [mastodon/chart](https://github.com/mastodon/chart) - Helm chart for Mastodon deployment in Kubernetes (1 week ago)
@@ -27,10 +27,10 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([airtrail-0.2.2](https://github.com/xvilo/helm-charts/releases/tag/airtrail-0.2.2), today) - Repository of helm charts
-- [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([crowdsec-web-ui-0.24.0](https://github.com/zekker6/helm-charts/releases/tag/crowdsec-web-ui-0.24.0), 5 days ago) - A collection of Helm charts
+- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([airtrail-0.2.2](https://github.com/xvilo/helm-charts/releases/tag/airtrail-0.2.2), 1 day ago) - Repository of helm charts
+- [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([crowdsec-web-ui-0.24.0](https://github.com/zekker6/helm-charts/releases/tag/crowdsec-web-ui-0.24.0), 6 days ago) - A collection of Helm charts
 - [xvilo/stonker-frontend](https://github.com/xvilo/stonker-frontend) ([v0.2.0-BETA5](https://github.com/xvilo/stonker-frontend/releases/tag/v0.2.0-BETA5), 1 week ago) - 
 - [xvilo/stonker-backend](https://github.com/xvilo/stonker-backend) ([v0.2.0-BETA5](https://github.com/xvilo/stonker-backend/releases/tag/v0.2.0-BETA5), 1 week ago) - 
-- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.54.7](https://github.com/transip/transip-api-php/releases/tag/6.54.7), 1 week ago) - PHP library for TransIP Rest API
+- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.54.7](https://github.com/transip/transip-api-php/releases/tag/6.54.7), 2 weeks ago) - PHP library for TransIP Rest API
 - [plexinc/pms-docker](https://github.com/plexinc/pms-docker) ([helm-chart-1.6.0](https://github.com/plexinc/pms-docker/releases/tag/helm-chart-1.6.0), 2 weeks ago) - Plex Media Server Docker repo, for all your PMS docker needs.
 - [remram44/matrix-helm](https://github.com/remram44/matrix-helm) ([matrix-2.9.22](https://github.com/remram44/matrix-helm/releases/tag/matrix-2.9.22), 3 weeks ago) - A Helm Chart for matrix.org (Synapse and Element Web)
