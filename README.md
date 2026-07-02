@@ -12,7 +12,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### What I've been working on
 
-- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (2 days ago)
+- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (3 days ago)
 - [xvilo/stonker-frontend](https://github.com/xvilo/stonker-frontend) -  (1 week ago)
 - [xvilo/stonker-backend](https://github.com/xvilo/stonker-backend) -  (1 week ago)
 - [mastodon/chart](https://github.com/mastodon/chart) - Helm chart for Mastodon deployment in Kubernetes (2 weeks ago)
@@ -27,8 +27,8 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([crowdsec-web-ui-0.27.0](https://github.com/zekker6/helm-charts/releases/tag/crowdsec-web-ui-0.27.0), today) - A collection of Helm charts
-- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([airtrail-0.2.2](https://github.com/xvilo/helm-charts/releases/tag/airtrail-0.2.2), 2 days ago) - Repository of helm charts
+- [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([crowdsec-web-ui-0.27.0](https://github.com/zekker6/helm-charts/releases/tag/crowdsec-web-ui-0.27.0), 1 day ago) - A collection of Helm charts
+- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([airtrail-0.2.2](https://github.com/xvilo/helm-charts/releases/tag/airtrail-0.2.2), 3 days ago) - Repository of helm charts
 - [xvilo/stonker-frontend](https://github.com/xvilo/stonker-frontend) ([v0.2.0-BETA5](https://github.com/xvilo/stonker-frontend/releases/tag/v0.2.0-BETA5), 1 week ago) - 
 - [xvilo/stonker-backend](https://github.com/xvilo/stonker-backend) ([v0.2.0-BETA5](https://github.com/xvilo/stonker-backend/releases/tag/v0.2.0-BETA5), 1 week ago) - 
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.54.7](https://github.com/transip/transip-api-php/releases/tag/6.54.7), 2 weeks ago) - PHP library for TransIP Rest API
