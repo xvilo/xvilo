@@ -12,7 +12,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### What I've been working on
 
-- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (3 days ago)
+- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (4 days ago)
 - [xvilo/stonker-frontend](https://github.com/xvilo/stonker-frontend) -  (3 weeks ago)
 - [xvilo/stonker-backend](https://github.com/xvilo/stonker-backend) -  (3 weeks ago)
 - [mastodon/chart](https://github.com/mastodon/chart) - Helm chart for Mastodon deployment in Kubernetes (4 weeks ago)
@@ -27,10 +27,10 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([docuseal-1.122.0](https://github.com/zekker6/helm-charts/releases/tag/docuseal-1.122.0), 1 day ago) - A collection of Helm charts
-- [remram44/matrix-helm](https://github.com/remram44/matrix-helm) ([matrix-2.9.23](https://github.com/remram44/matrix-helm/releases/tag/matrix-2.9.23), 2 days ago) - A Helm Chart for matrix.org (Synapse and Element Web)
-- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([isponsorblocktv-1.0.5](https://github.com/xvilo/helm-charts/releases/tag/isponsorblocktv-1.0.5), 3 days ago) - Repository of helm charts
+- [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([docuseal-1.122.0](https://github.com/zekker6/helm-charts/releases/tag/docuseal-1.122.0), 2 days ago) - A collection of Helm charts
+- [remram44/matrix-helm](https://github.com/remram44/matrix-helm) ([matrix-2.9.23](https://github.com/remram44/matrix-helm/releases/tag/matrix-2.9.23), 3 days ago) - A Helm Chart for matrix.org (Synapse and Element Web)
+- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([isponsorblocktv-1.0.5](https://github.com/xvilo/helm-charts/releases/tag/isponsorblocktv-1.0.5), 4 days ago) - Repository of helm charts
 - [xvilo/stonker-frontend](https://github.com/xvilo/stonker-frontend) ([v0.2.0-BETA5](https://github.com/xvilo/stonker-frontend/releases/tag/v0.2.0-BETA5), 3 weeks ago) - 
 - [xvilo/stonker-backend](https://github.com/xvilo/stonker-backend) ([v0.2.0-BETA5](https://github.com/xvilo/stonker-backend/releases/tag/v0.2.0-BETA5), 3 weeks ago) - 
-- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.54.7](https://github.com/transip/transip-api-php/releases/tag/6.54.7), 4 weeks ago) - PHP library for TransIP Rest API
+- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.54.7](https://github.com/transip/transip-api-php/releases/tag/6.54.7), 1 month ago) - PHP library for TransIP Rest API
 - [plexinc/pms-docker](https://github.com/plexinc/pms-docker) ([helm-chart-1.6.0](https://github.com/plexinc/pms-docker/releases/tag/helm-chart-1.6.0), 1 month ago) - Plex Media Server Docker repo, for all your PMS docker needs.
