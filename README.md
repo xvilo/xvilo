@@ -12,7 +12,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### What I've been working on
 
-- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (5 days ago)
+- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (6 days ago)
 - [xvilo/stonker-frontend](https://github.com/xvilo/stonker-frontend) -  (3 weeks ago)
 - [xvilo/stonker-backend](https://github.com/xvilo/stonker-backend) -  (3 weeks ago)
 - [mastodon/chart](https://github.com/mastodon/chart) - Helm chart for Mastodon deployment in Kubernetes (1 month ago)
@@ -27,9 +27,9 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([crowdsec-web-ui-0.38.0](https://github.com/zekker6/helm-charts/releases/tag/crowdsec-web-ui-0.38.0), today) - A collection of Helm charts
-- [remram44/matrix-helm](https://github.com/remram44/matrix-helm) ([matrix-2.9.23](https://github.com/remram44/matrix-helm/releases/tag/matrix-2.9.23), 4 days ago) - A Helm Chart for matrix.org (Synapse and Element Web)
-- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([isponsorblocktv-1.0.5](https://github.com/xvilo/helm-charts/releases/tag/isponsorblocktv-1.0.5), 5 days ago) - Repository of helm charts
+- [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([crowdsec-web-ui-0.38.0](https://github.com/zekker6/helm-charts/releases/tag/crowdsec-web-ui-0.38.0), 1 day ago) - A collection of Helm charts
+- [remram44/matrix-helm](https://github.com/remram44/matrix-helm) ([matrix-2.9.23](https://github.com/remram44/matrix-helm/releases/tag/matrix-2.9.23), 5 days ago) - A Helm Chart for matrix.org (Synapse and Element Web)
+- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([isponsorblocktv-1.0.5](https://github.com/xvilo/helm-charts/releases/tag/isponsorblocktv-1.0.5), 6 days ago) - Repository of helm charts
 - [xvilo/stonker-frontend](https://github.com/xvilo/stonker-frontend) ([v0.2.0-BETA5](https://github.com/xvilo/stonker-frontend/releases/tag/v0.2.0-BETA5), 3 weeks ago) - 
 - [xvilo/stonker-backend](https://github.com/xvilo/stonker-backend) ([v0.2.0-BETA5](https://github.com/xvilo/stonker-backend/releases/tag/v0.2.0-BETA5), 3 weeks ago) - 
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.54.7](https://github.com/transip/transip-api-php/releases/tag/6.54.7), 1 month ago) - PHP library for TransIP Rest API
