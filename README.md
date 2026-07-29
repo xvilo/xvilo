@@ -27,7 +27,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([matrix-3.27.0](https://github.com/zekker6/helm-charts/releases/tag/matrix-3.27.0), today) - A collection of Helm charts
+- [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([crowdsec-web-ui-0.48.0](https://github.com/zekker6/helm-charts/releases/tag/crowdsec-web-ui-0.48.0), today) - A collection of Helm charts
 - [remram44/matrix-helm](https://github.com/remram44/matrix-helm) ([matrix-2.9.25](https://github.com/remram44/matrix-helm/releases/tag/matrix-2.9.25), 1 day ago) - A Helm Chart for matrix.org (Synapse and Element Web)
 - [xvilo/stonker-frontend](https://github.com/xvilo/stonker-frontend) ([v0.2.0](https://github.com/xvilo/stonker-frontend/releases/tag/v0.2.0), 1 week ago) - 
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([isponsorblocktv-1.0.5](https://github.com/xvilo/helm-charts/releases/tag/isponsorblocktv-1.0.5), 2 weeks ago) - Repository of helm charts
