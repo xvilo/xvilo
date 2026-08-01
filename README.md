@@ -13,8 +13,8 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 #### What I've been working on
 
 - [xvilo/stonker-frontend](https://github.com/xvilo/stonker-frontend) -  (1 day ago)
+- [xvilo/stonker-backend](https://github.com/xvilo/stonker-backend) -  (1 day ago)
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (2 weeks ago)
-- [xvilo/stonker-backend](https://github.com/xvilo/stonker-backend) -  (1 month ago)
 - [mastodon/chart](https://github.com/mastodon/chart) - Helm chart for Mastodon deployment in Kubernetes (1 month ago)
 - [zekker6/helm-charts](https://github.com/zekker6/helm-charts) - A collection of Helm charts (4 months ago)
 - [xvilo/signal](https://github.com/xvilo/signal) -  (5 months ago)
