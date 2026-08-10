@@ -20,14 +20,14 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [xvilo/signal](https://github.com/xvilo/signal) -  (6 months ago)
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) - PHP library for TransIP Rest API (7 months ago)
 - [plexinc/pms-docker](https://github.com/plexinc/pms-docker) - Plex Media Server Docker repo, for all your PMS docker needs. (10 months ago)
-- [RyuunosukeDS3/helm-charts](https://github.com/RyuunosukeDS3/helm-charts) -  (11 months ago)
+- [RyuunosukeDS3/helm-charts](https://github.com/RyuunosukeDS3/helm-charts) -  (1 year ago)
 - [remram44/matrix-helm](https://github.com/remram44/matrix-helm) - A Helm Chart for matrix.org (Synapse and Element Web) (1 year ago)
 
 ---
 
 #### My latest contributions
 
-- [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([paperless-11.4.0](https://github.com/zekker6/helm-charts/releases/tag/paperless-11.4.0), 2 days ago) - A collection of Helm charts
+- [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([paperless-11.4.0](https://github.com/zekker6/helm-charts/releases/tag/paperless-11.4.0), 3 days ago) - A collection of Helm charts
 - [xvilo/stonker-frontend](https://github.com/xvilo/stonker-frontend) ([v0.3.0](https://github.com/xvilo/stonker-frontend/releases/tag/v0.3.0), 1 week ago) - 
 - [remram44/matrix-helm](https://github.com/remram44/matrix-helm) ([matrix-2.9.25](https://github.com/remram44/matrix-helm/releases/tag/matrix-2.9.25), 1 week ago) - A Helm Chart for matrix.org (Synapse and Element Web)
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([isponsorblocktv-1.0.5](https://github.com/xvilo/helm-charts/releases/tag/isponsorblocktv-1.0.5), 4 weeks ago) - Repository of helm charts
