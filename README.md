@@ -25,8 +25,8 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [plexinc/pms-docker](https://github.com/plexinc/pms-docker) ([helm-chart-1.7.0](https://github.com/plexinc/pms-docker/releases/tag/helm-chart-1.7.0), 1 day ago) - Plex Media Server Docker repo, for all your PMS docker needs.
-- [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([paperless-11.5.0](https://github.com/zekker6/helm-charts/releases/tag/paperless-11.5.0), 1 day ago) - A collection of Helm charts
+- [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([homer-8.34.0](https://github.com/zekker6/helm-charts/releases/tag/homer-8.34.0), today) - A collection of Helm charts
+- [plexinc/pms-docker](https://github.com/plexinc/pms-docker) ([helm-chart-1.7.1](https://github.com/plexinc/pms-docker/releases/tag/helm-chart-1.7.1), today) - Plex Media Server Docker repo, for all your PMS docker needs.
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([stonker-0.1.1](https://github.com/xvilo/helm-charts/releases/tag/stonker-0.1.1), 4 days ago) - Repository of helm charts
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.54.10](https://github.com/transip/transip-api-php/releases/tag/6.54.10), 1 week ago) - PHP library for TransIP Rest API
 - [xvilo/stonker-frontend](https://github.com/xvilo/stonker-frontend) ([v0.3.0](https://github.com/xvilo/stonker-frontend/releases/tag/v0.3.0), 4 weeks ago) - 
