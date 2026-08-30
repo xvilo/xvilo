@@ -12,8 +12,8 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### What I've been working on
 
-- [xvilo/stonker-frontend](https://github.com/xvilo/stonker-frontend) -  (5 days ago)
-- [xvilo/stonker-backend](https://github.com/xvilo/stonker-backend) -  (5 days ago)
+- [xvilo/stonker-frontend](https://github.com/xvilo/stonker-frontend) -  (6 days ago)
+- [xvilo/stonker-backend](https://github.com/xvilo/stonker-backend) -  (6 days ago)
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (1 month ago)
 - [mastodon/chart](https://github.com/mastodon/chart) - Helm chart for Mastodon deployment in Kubernetes (2 months ago)
 - [zekker6/helm-charts](https://github.com/zekker6/helm-charts) - A collection of Helm charts (5 months ago)
@@ -25,9 +25,9 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([homer-8.34.0](https://github.com/zekker6/helm-charts/releases/tag/homer-8.34.0), 1 day ago) - A collection of Helm charts
-- [plexinc/pms-docker](https://github.com/plexinc/pms-docker) ([helm-chart-1.7.1](https://github.com/plexinc/pms-docker/releases/tag/helm-chart-1.7.1), 1 day ago) - Plex Media Server Docker repo, for all your PMS docker needs.
-- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([stonker-0.1.1](https://github.com/xvilo/helm-charts/releases/tag/stonker-0.1.1), 5 days ago) - Repository of helm charts
+- [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([homer-8.34.0](https://github.com/zekker6/helm-charts/releases/tag/homer-8.34.0), 2 days ago) - A collection of Helm charts
+- [plexinc/pms-docker](https://github.com/plexinc/pms-docker) ([helm-chart-1.7.1](https://github.com/plexinc/pms-docker/releases/tag/helm-chart-1.7.1), 2 days ago) - Plex Media Server Docker repo, for all your PMS docker needs.
+- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([stonker-0.1.1](https://github.com/xvilo/helm-charts/releases/tag/stonker-0.1.1), 6 days ago) - Repository of helm charts
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.54.10](https://github.com/transip/transip-api-php/releases/tag/6.54.10), 1 week ago) - PHP library for TransIP Rest API
-- [xvilo/stonker-frontend](https://github.com/xvilo/stonker-frontend) ([v0.3.0](https://github.com/xvilo/stonker-frontend/releases/tag/v0.3.0), 4 weeks ago) - 
+- [xvilo/stonker-frontend](https://github.com/xvilo/stonker-frontend) ([v0.3.0](https://github.com/xvilo/stonker-frontend/releases/tag/v0.3.0), 1 month ago) - 
 - [xvilo/stonker-backend](https://github.com/xvilo/stonker-backend) ([v0.2.0-BETA5](https://github.com/xvilo/stonker-backend/releases/tag/v0.2.0-BETA5), 2 months ago) - 
