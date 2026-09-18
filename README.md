@@ -26,10 +26,10 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([readeck-0.31.0](https://github.com/zekker6/helm-charts/releases/tag/readeck-0.31.0), today) - A collection of Helm charts
+- [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([readeck-0.31.0](https://github.com/zekker6/helm-charts/releases/tag/readeck-0.31.0), 1 day ago) - A collection of Helm charts
 - [plexinc/pms-docker](https://github.com/plexinc/pms-docker) ([helm-chart-1.9.0](https://github.com/plexinc/pms-docker/releases/tag/helm-chart-1.9.0), 1 week ago) - Plex Media Server Docker repo, for all your PMS docker needs.
 - [liketrek/TREK](https://github.com/liketrek/TREK) ([v4.2.1](https://github.com/liketrek/TREK/releases/tag/v4.2.1), 1 week ago) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([stonker-0.1.1](https://github.com/xvilo/helm-charts/releases/tag/stonker-0.1.1), 3 weeks ago) - Repository of helm charts
-- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.54.10](https://github.com/transip/transip-api-php/releases/tag/6.54.10), 4 weeks ago) - PHP library for TransIP Rest API
+- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.54.10](https://github.com/transip/transip-api-php/releases/tag/6.54.10), 1 month ago) - PHP library for TransIP Rest API
 - [xvilo/stonker-frontend](https://github.com/xvilo/stonker-frontend) ([v0.3.0](https://github.com/xvilo/stonker-frontend/releases/tag/v0.3.0), 1 month ago) - 
 - [xvilo/stonker-backend](https://github.com/xvilo/stonker-backend) ([v0.2.0-BETA5](https://github.com/xvilo/stonker-backend/releases/tag/v0.2.0-BETA5), 2 months ago) - 
