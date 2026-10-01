@@ -20,14 +20,14 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [zekker6/helm-charts](https://github.com/zekker6/helm-charts) - A collection of Helm charts (6 months ago)
 - [xvilo/signal](https://github.com/xvilo/signal) -  (7 months ago)
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) - PHP library for TransIP Rest API (9 months ago)
-- [plexinc/pms-docker](https://github.com/plexinc/pms-docker) - Plex Media Server Docker repo, for all your PMS docker needs. (11 months ago)
+- [plexinc/pms-docker](https://github.com/plexinc/pms-docker) - Plex Media Server Docker repo, for all your PMS docker needs. (1 year ago)
 
 ---
 
 #### My latest contributions
 
-- [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([docuseal-1.133.0](https://github.com/zekker6/helm-charts/releases/tag/docuseal-1.133.0), today) - A collection of Helm charts
-- [liketrek/TREK](https://github.com/liketrek/TREK) ([v4.3.3](https://github.com/liketrek/TREK/releases/tag/v4.3.3), 4 days ago) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
+- [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([docuseal-1.133.0](https://github.com/zekker6/helm-charts/releases/tag/docuseal-1.133.0), 1 day ago) - A collection of Helm charts
+- [liketrek/TREK](https://github.com/liketrek/TREK) ([v4.3.3](https://github.com/liketrek/TREK/releases/tag/v4.3.3), 5 days ago) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
 - [plexinc/pms-docker](https://github.com/plexinc/pms-docker) ([helm-chart-1.9.0](https://github.com/plexinc/pms-docker/releases/tag/helm-chart-1.9.0), 3 weeks ago) - Plex Media Server Docker repo, for all your PMS docker needs.
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([stonker-0.1.1](https://github.com/xvilo/helm-charts/releases/tag/stonker-0.1.1), 1 month ago) - Repository of helm charts
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.54.10](https://github.com/transip/transip-api-php/releases/tag/6.54.10), 1 month ago) - PHP library for TransIP Rest API
