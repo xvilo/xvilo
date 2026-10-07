@@ -12,12 +12,12 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### What I've been working on
 
-- [liketrek/TREK](https://github.com/liketrek/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more. (4 weeks ago)
+- [liketrek/TREK](https://github.com/liketrek/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more. (1 month ago)
 - [xvilo/stonker-frontend](https://github.com/xvilo/stonker-frontend) -  (1 month ago)
 - [xvilo/stonker-backend](https://github.com/xvilo/stonker-backend) -  (1 month ago)
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (2 months ago)
 - [mastodon/chart](https://github.com/mastodon/chart) - Helm chart for Mastodon deployment in Kubernetes (3 months ago)
-- [zekker6/helm-charts](https://github.com/zekker6/helm-charts) - A collection of Helm charts (6 months ago)
+- [zekker6/helm-charts](https://github.com/zekker6/helm-charts) - A collection of Helm charts (7 months ago)
 - [xvilo/signal](https://github.com/xvilo/signal) -  (8 months ago)
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) - PHP library for TransIP Rest API (9 months ago)
 - [plexinc/pms-docker](https://github.com/plexinc/pms-docker) - Plex Media Server Docker repo, for all your PMS docker needs. (1 year ago)
@@ -26,7 +26,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([crowdsec-web-ui-0.54.0](https://github.com/zekker6/helm-charts/releases/tag/crowdsec-web-ui-0.54.0), 1 day ago) - A collection of Helm charts
+- [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([crowdsec-web-ui-0.54.0](https://github.com/zekker6/helm-charts/releases/tag/crowdsec-web-ui-0.54.0), 2 days ago) - A collection of Helm charts
 - [liketrek/TREK](https://github.com/liketrek/TREK) ([v4.3.3](https://github.com/liketrek/TREK/releases/tag/v4.3.3), 1 week ago) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([stonker-0.1.1](https://github.com/xvilo/helm-charts/releases/tag/stonker-0.1.1), 1 month ago) - Repository of helm charts
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.54.10](https://github.com/transip/transip-api-php/releases/tag/6.54.10), 1 month ago) - PHP library for TransIP Rest API
