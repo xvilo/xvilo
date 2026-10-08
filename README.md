@@ -26,7 +26,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([crowdsec-web-ui-0.55.0](https://github.com/zekker6/helm-charts/releases/tag/crowdsec-web-ui-0.55.0), today) - A collection of Helm charts
+- [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([crowdsec-web-ui-0.55.0](https://github.com/zekker6/helm-charts/releases/tag/crowdsec-web-ui-0.55.0), 1 day ago) - A collection of Helm charts
 - [liketrek/TREK](https://github.com/liketrek/TREK) ([v4.3.3](https://github.com/liketrek/TREK/releases/tag/v4.3.3), 1 week ago) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([stonker-0.1.1](https://github.com/xvilo/helm-charts/releases/tag/stonker-0.1.1), 1 month ago) - Repository of helm charts
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.54.10](https://github.com/transip/transip-api-php/releases/tag/6.54.10), 1 month ago) - PHP library for TransIP Rest API
