@@ -21,7 +21,6 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 - [zekker6/helm-charts](https://github.com/zekker6/helm-charts) - A collection of Helm charts (7 months ago)
 - [xvilo/signal](https://github.com/xvilo/signal) -  (8 months ago)
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) - PHP library for TransIP Rest API (9 months ago)
-- [plexinc/pms-docker](https://github.com/plexinc/pms-docker) - Plex Media Server Docker repo, for all your PMS docker needs. (1 year ago)
 
 ---
 
