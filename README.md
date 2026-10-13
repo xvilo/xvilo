@@ -26,10 +26,10 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
+- [liketrek/TREK](https://github.com/liketrek/TREK) ([v5.0.0-pre.1](https://github.com/liketrek/TREK/releases/tag/v5.0.0-pre.1), today) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([airtrail-0.3.0](https://github.com/xvilo/helm-charts/releases/tag/airtrail-0.3.0), 3 days ago) - Repository of helm charts
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) ([v0.8.13](https://github.com/AprilNEA/OpenLogi/releases/tag/v0.8.13), 4 days ago) - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry.
 - [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([crowdsec-web-ui-0.55.0](https://github.com/zekker6/helm-charts/releases/tag/crowdsec-web-ui-0.55.0), 6 days ago) - A collection of Helm charts
-- [liketrek/TREK](https://github.com/liketrek/TREK) ([v4.3.3](https://github.com/liketrek/TREK/releases/tag/v4.3.3), 2 weeks ago) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.54.10](https://github.com/transip/transip-api-php/releases/tag/6.54.10), 1 month ago) - PHP library for TransIP Rest API
 - [xvilo/stonker-frontend](https://github.com/xvilo/stonker-frontend) ([v0.3.0](https://github.com/xvilo/stonker-frontend/releases/tag/v0.3.0), 2 months ago) - 
 - [xvilo/stonker-backend](https://github.com/xvilo/stonker-backend) ([v0.2.0-BETA5](https://github.com/xvilo/stonker-backend/releases/tag/v0.2.0-BETA5), 3 months ago) - 
