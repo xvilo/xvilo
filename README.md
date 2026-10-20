@@ -27,6 +27,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
+- [xvilo/a2-racer-4-davilex-decomp](https://github.com/xvilo/a2-racer-4-davilex-decomp) ([v0.1.0](https://github.com/xvilo/a2-racer-4-davilex-decomp/releases/tag/v0.1.0), today) - A2 Racer: De politie slaat terug, decomp
 - [xvilo/a2-racer-davilex-decomp](https://github.com/xvilo/a2-racer-davilex-decomp) ([latest](https://github.com/xvilo/a2-racer-davilex-decomp/releases/tag/latest), today) - Decomp of A2 Racer
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) ([v0.8.15](https://github.com/AprilNEA/OpenLogi/releases/tag/v0.8.15), today) - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry.
 - [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([crowdsec-web-ui-0.57.0](https://github.com/zekker6/helm-charts/releases/tag/crowdsec-web-ui-0.57.0), 3 days ago) - A collection of Helm charts
