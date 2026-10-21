@@ -27,10 +27,10 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
+- [xvilo/a2-racer-4-davilex-decomp](https://github.com/xvilo/a2-racer-4-davilex-decomp) ([v0.25.0](https://github.com/xvilo/a2-racer-4-davilex-decomp/releases/tag/v0.25.0), today) - A2 Racer: De politie slaat terug, decomp
+- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) ([v0.8.16](https://github.com/AprilNEA/OpenLogi/releases/tag/v0.8.16), today) - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry.
 - [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([healthchecks-1.24.0](https://github.com/zekker6/helm-charts/releases/tag/healthchecks-1.24.0), today) - A collection of Helm charts
-- [xvilo/a2-racer-4-davilex-decomp](https://github.com/xvilo/a2-racer-4-davilex-decomp) ([latest](https://github.com/xvilo/a2-racer-4-davilex-decomp/releases/tag/latest), today) - A2 Racer: De politie slaat terug, decomp
 - [xvilo/a2-racer-davilex-decomp](https://github.com/xvilo/a2-racer-davilex-decomp) ([v0.3.0](https://github.com/xvilo/a2-racer-davilex-decomp/releases/tag/v0.3.0), today) - Decomp of A2 Racer
-- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) ([v0.8.15](https://github.com/AprilNEA/OpenLogi/releases/tag/v0.8.15), 1 day ago) - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry.
 - [liketrek/TREK](https://github.com/liketrek/TREK) ([v5.0.0-pre.1](https://github.com/liketrek/TREK/releases/tag/v5.0.0-pre.1), 1 week ago) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([airtrail-0.3.0](https://github.com/xvilo/helm-charts/releases/tag/airtrail-0.3.0), 1 week ago) - Repository of helm charts
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.54.10](https://github.com/transip/transip-api-php/releases/tag/6.54.10), 2 months ago) - PHP library for TransIP Rest API
