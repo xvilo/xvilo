@@ -12,7 +12,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### What I've been working on
 
-- [xvilo/a2-racer-4-davilex-decomp](https://github.com/xvilo/a2-racer-4-davilex-decomp) - A2 Racer: De politie slaat terug, decomp (1 day ago)
+- [xvilo/a2-racer-4-davilex-decomp](https://github.com/xvilo/a2-racer-4-davilex-decomp) - A2 Racer: De politie slaat terug, decomp (today)
 - [xvilo/a2-racer-davilex-decomp](https://github.com/xvilo/a2-racer-davilex-decomp) - Decomp of A2 Racer (1 day ago)
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (1 week ago)
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry. (1 week ago)
@@ -27,7 +27,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [xvilo/a2-racer-4-davilex-decomp](https://github.com/xvilo/a2-racer-4-davilex-decomp) ([v0.28.0](https://github.com/xvilo/a2-racer-4-davilex-decomp/releases/tag/v0.28.0), 1 day ago) - A2 Racer: De politie slaat terug, decomp
+- [xvilo/a2-racer-4-davilex-decomp](https://github.com/xvilo/a2-racer-4-davilex-decomp) ([v0.29.0](https://github.com/xvilo/a2-racer-4-davilex-decomp/releases/tag/v0.29.0), today) - A2 Racer: De politie slaat terug, decomp
 - [liketrek/TREK](https://github.com/liketrek/TREK) ([v4.3.4](https://github.com/liketrek/TREK/releases/tag/v4.3.4), 1 day ago) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) ([v0.8.16](https://github.com/AprilNEA/OpenLogi/releases/tag/v0.8.16), 1 day ago) - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry.
 - [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([healthchecks-1.24.0](https://github.com/zekker6/helm-charts/releases/tag/healthchecks-1.24.0), 1 day ago) - A collection of Helm charts
