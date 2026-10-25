@@ -27,10 +27,10 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
+- [liketrek/TREK](https://github.com/liketrek/TREK) ([v5.0.0](https://github.com/liketrek/TREK/releases/tag/v5.0.0), today) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
 - [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([readeck-0.33.0](https://github.com/zekker6/helm-charts/releases/tag/readeck-0.33.0), 2 days ago) - A collection of Helm charts
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) ([v0.8.17](https://github.com/AprilNEA/OpenLogi/releases/tag/v0.8.17), 3 days ago) - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry.
 - [xvilo/a2-racer-4-davilex-decomp](https://github.com/xvilo/a2-racer-4-davilex-decomp) ([latest](https://github.com/xvilo/a2-racer-4-davilex-decomp/releases/tag/latest), 3 days ago) - A2 Racer: De politie slaat terug, decomp
-- [liketrek/TREK](https://github.com/liketrek/TREK) ([v4.3.4](https://github.com/liketrek/TREK/releases/tag/v4.3.4), 4 days ago) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
 - [xvilo/a2-racer-davilex-decomp](https://github.com/xvilo/a2-racer-davilex-decomp) ([v0.3.0](https://github.com/xvilo/a2-racer-davilex-decomp/releases/tag/v0.3.0), 4 days ago) - Decomp of A2 Racer
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) ([airtrail-0.3.0](https://github.com/xvilo/helm-charts/releases/tag/airtrail-0.3.0), 2 weeks ago) - Repository of helm charts
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.54.10](https://github.com/transip/transip-api-php/releases/tag/6.54.10), 2 months ago) - PHP library for TransIP Rest API
