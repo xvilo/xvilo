@@ -12,22 +12,22 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### What I've been working on
 
+- [xvilo/claude-code-deskphone](https://github.com/xvilo/claude-code-deskphone) - Call your Claude Code sessions from a real analog desk phone: speak prompts, get called back with spoken answers. Claude Code plugin with Asterisk, whisper.cpp and macOS text-to-speech. (today)
 - [xvilo/a2-racer-4-davilex-decomp](https://github.com/xvilo/a2-racer-4-davilex-decomp) - A2 Racer: De politie slaat terug, decomp (1 week ago)
 - [xvilo/a2-racer-davilex-decomp](https://github.com/xvilo/a2-racer-davilex-decomp) - Decomp of A2 Racer (1 week ago)
-- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (2 weeks ago)
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry. (2 weeks ago)
+- [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (2 weeks ago)
 - [liketrek/TREK](https://github.com/liketrek/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more. (1 month ago)
-- [xvilo/stonker-backend](https://github.com/xvilo/stonker-backend) -  (2 months ago)
 - [xvilo/stonker-frontend](https://github.com/xvilo/stonker-frontend) -  (2 months ago)
+- [xvilo/stonker-backend](https://github.com/xvilo/stonker-backend) -  (2 months ago)
 - [mastodon/chart](https://github.com/mastodon/chart) - Helm chart for Mastodon deployment in Kubernetes (4 months ago)
 - [zekker6/helm-charts](https://github.com/zekker6/helm-charts) - A collection of Helm charts (7 months ago)
-- [xvilo/signal](https://github.com/xvilo/signal) -  (8 months ago)
 
 ---
 
 #### My latest contributions
 
-- [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([matrix-3.36.0](https://github.com/zekker6/helm-charts/releases/tag/matrix-3.36.0), 1 day ago) - A collection of Helm charts
+- [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([matrix-3.37.0](https://github.com/zekker6/helm-charts/releases/tag/matrix-3.37.0), today) - A collection of Helm charts
 - [liketrek/TREK](https://github.com/liketrek/TREK) ([v5.0.1](https://github.com/liketrek/TREK/releases/tag/v5.0.1), 1 day ago) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) ([v0.8.18](https://github.com/AprilNEA/OpenLogi/releases/tag/v0.8.18), 4 days ago) - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry.
 - [xvilo/a2-racer-4-davilex-decomp](https://github.com/xvilo/a2-racer-4-davilex-decomp) ([latest](https://github.com/xvilo/a2-racer-4-davilex-decomp/releases/tag/latest), 1 week ago) - A2 Racer: De politie slaat terug, decomp
