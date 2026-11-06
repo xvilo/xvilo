@@ -12,7 +12,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### What I've been working on
 
-- [xvilo/claude-code-deskphone](https://github.com/xvilo/claude-code-deskphone) - Call your Claude Code sessions from a real analog desk phone: speak prompts, get called back with spoken answers. Claude Code plugin with Asterisk, whisper.cpp and macOS text-to-speech. (1 week ago)
+- [xvilo/claude-code-deskphone](https://github.com/xvilo/claude-code-deskphone) - Call your Claude Code sessions from a real analog desk phone: speak prompts, get called back with spoken answers. Claude Code plugin with Asterisk, whisper.cpp and macOS text-to-speech. (today)
 - [xvilo/a2-racer-4-davilex-decomp](https://github.com/xvilo/a2-racer-4-davilex-decomp) - A2 Racer: De politie slaat terug, decomp (2 weeks ago)
 - [xvilo/a2-racer-davilex-decomp](https://github.com/xvilo/a2-racer-davilex-decomp) - Decomp of A2 Racer (2 weeks ago)
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (3 weeks ago)
