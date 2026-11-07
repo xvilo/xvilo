@@ -6,7 +6,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My GH statistics
 
-[![xvilo's GitHub stats](https://github-stats-extended.vercel.app/api?username=xvilo)](https://github.com/stats-organization/github-stats-extended)
+![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=xvilo&show_icons=true&count_private=true&hide_title=true)
 
 ---
 
