@@ -12,16 +12,16 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### What I've been working on
 
+- [RobinJ1995/totaleBlindheidBot](https://github.com/RobinJ1995/totaleBlindheidBot) - CS:GO group chat Telegram bot (today)
 - [xvilo/claude-code-deskphone](https://github.com/xvilo/claude-code-deskphone) - Call your Claude Code sessions from a real analog desk phone: speak prompts, get called back with spoken answers. Claude Code plugin with Asterisk, whisper.cpp and macOS text-to-speech. (5 days ago)
 - [xvilo/a2-racer-4-davilex-decomp](https://github.com/xvilo/a2-racer-4-davilex-decomp) - A2 Racer: De politie slaat terug, decomp (2 weeks ago)
 - [xvilo/a2-racer-davilex-decomp](https://github.com/xvilo/a2-racer-davilex-decomp) - Decomp of A2 Racer (3 weeks ago)
 - [xvilo/helm-charts](https://github.com/xvilo/helm-charts) - Repository of helm charts (1 month ago)
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry. (1 month ago)
 - [liketrek/TREK](https://github.com/liketrek/TREK) - The most complete open-source travel planner: real-time collaboration, bookings, budgets, packing lists, journals, offline PWA, SSO and an AI-ready MCP server, with planet-wide place search and routing built in. (2 months ago)
-- [xvilo/stonker-backend](https://github.com/xvilo/stonker-backend) -  (2 months ago)
 - [xvilo/stonker-frontend](https://github.com/xvilo/stonker-frontend) -  (2 months ago)
+- [xvilo/stonker-backend](https://github.com/xvilo/stonker-backend) -  (2 months ago)
 - [mastodon/chart](https://github.com/mastodon/chart) - Helm chart for Mastodon deployment in Kubernetes (4 months ago)
-- [zekker6/helm-charts](https://github.com/zekker6/helm-charts) - A collection of Helm charts (8 months ago)
 
 ---
 
