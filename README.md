@@ -27,7 +27,7 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
-- [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([paperless-11.20.0](https://github.com/zekker6/helm-charts/releases/tag/paperless-11.20.0), 4 days ago) - A collection of Helm charts
+- [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([paperless-11.20.0](https://github.com/zekker6/helm-charts/releases/tag/paperless-11.20.0), 5 days ago) - A collection of Helm charts
 - [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.56.0](https://github.com/transip/transip-api-php/releases/tag/6.56.0), 1 week ago) - PHP library for TransIP Rest API
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) ([v0.9.1-beta.144](https://github.com/AprilNEA/OpenLogi/releases/tag/v0.9.1-beta.144), 1 week ago) - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry.
 - [liketrek/TREK](https://github.com/liketrek/TREK) ([v5.1.4](https://github.com/liketrek/TREK/releases/tag/v5.1.4), 1 week ago) - The most complete open-source travel planner: real-time collaboration, bookings, budgets, packing lists, journals, offline PWA, SSO and an AI-ready MCP server, with planet-wide place search and routing built in.
