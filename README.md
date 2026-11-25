@@ -27,9 +27,9 @@ My name is Sem Schilder. 👋🏻 Currently, I'm working as DevOps/Frontend Deve
 
 #### My latest contributions
 
+- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.56.1](https://github.com/transip/transip-api-php/releases/tag/6.56.1), today) - PHP library for TransIP Rest API
+- [liketrek/TREK](https://github.com/liketrek/TREK) ([v5.2.1](https://github.com/liketrek/TREK/releases/tag/v5.2.1), today) - The most complete open-source travel planner: real-time collaboration, bookings, budgets, packing lists, journals, offline PWA, SSO and an AI-ready MCP server, with planet-wide place search and routing built in.
 - [zekker6/helm-charts](https://github.com/zekker6/helm-charts) ([plausible-analytics-1.5.0](https://github.com/zekker6/helm-charts/releases/tag/plausible-analytics-1.5.0), 1 day ago) - A collection of Helm charts
-- [liketrek/TREK](https://github.com/liketrek/TREK) ([v5.2.0](https://github.com/liketrek/TREK/releases/tag/v5.2.0), 2 days ago) - The most complete open-source travel planner: real-time collaboration, bookings, budgets, packing lists, journals, offline PWA, SSO and an AI-ready MCP server, with planet-wide place search and routing built in.
-- [transip/transip-api-php](https://github.com/transip/transip-api-php) ([6.56.0](https://github.com/transip/transip-api-php/releases/tag/6.56.0), 1 week ago) - PHP library for TransIP Rest API
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) ([v0.9.1-beta.144](https://github.com/AprilNEA/OpenLogi/releases/tag/v0.9.1-beta.144), 1 week ago) - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry.
 - [xvilo/a2-racer-4-davilex-decomp](https://github.com/xvilo/a2-racer-4-davilex-decomp) ([latest](https://github.com/xvilo/a2-racer-4-davilex-decomp/releases/tag/latest), 1 month ago) - A2 Racer: De politie slaat terug, decomp
 - [xvilo/a2-racer-davilex-decomp](https://github.com/xvilo/a2-racer-davilex-decomp) ([v0.3.0](https://github.com/xvilo/a2-racer-davilex-decomp/releases/tag/v0.3.0), 1 month ago) - Decomp of A2 Racer
